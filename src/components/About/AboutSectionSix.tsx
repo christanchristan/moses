@@ -41,21 +41,21 @@ const AboutSectionSix = () => {
        ሙሃመድ ማለት ሰውች የኔን ሱና ወይም አይዶሎጂ (ርእዮተ አለም) መከተል አለበት ካልተከተለ ግን ለኔ ሊሆን አይችልም ብሎ የሚያስብ ግለሰብ ነው፡፡
 
   <Image 
-        src="/images/about/bbss.jpg"
+        src="/images/about/bbss.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
        
         <Image 
-        src="/images/about/bbss1.jpg"
+        src="/images/about/bbss1.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
 
           <Image 
-        src="/images/about/bbss2.jpg"
+        src="/images/about/bbss2.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -64,19 +64,19 @@ const AboutSectionSix = () => {
   
 
     <Image 
-        src="/images/about/vpn1.jpg"
+        src="/images/about/vpn1.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
    <Image 
-        src="/images/about/vpn2.jpg"
+        src="/images/about/vpn2.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
         <Image 
-        src="/images/about/vpn3.jpg.jpg"
+        src="/images/about/vpn3.jpg.JPG"
           alt="My Photo" 
         width={500} 
         height={300} 

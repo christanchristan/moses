@@ -50,94 +50,94 @@ const AboutSectionTwo = () => {
         height={300} 
       />
         <Image 
-        src="/images/about/arebic2.jpg"
+        src="/images/about/arebic2.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
         <Image 
-             src="/images/about/arebic3.jpg"
+             src="/images/about/arebic3.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
         <Image 
-        src="/images/about/ar2.jpg"
+        src="/images/about/ar2.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
             <Image 
-        src="/images/about/vvv.jpg"
+        src="/images/about/vvv.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
       <Image 
-        src="/images/about/vvvv.jpg"
+        src="/images/about/vvvv.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
  <Image 
-        src="/images/about/arebic6.jpg"
+        src="/images/about/arebic6.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
        <Image 
-        src="/images/about/arebic9.jpg"
+        src="/images/about/arebic9.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
        <Image 
-        src="/images/about/areb4.jpg"
+        src="/images/about/areb4.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
 
 <Image 
-        src="/images/about/arebic9.jpg"
+        src="/images/about/arebic9.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
       <Image  
-        src="/images/about/vbb.jpg"
+        src="/images/about/vbb.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
       
  <Image  
-        src="/images/about/bilo.jpg"
+        src="/images/about/bilo.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
         <Image  
-        src="/images/about/vid.jpg"
+        src="/images/about/vid.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
        <Image  
-        src="/images/about/mnmn.jpg"
+        src="/images/about/mnmn.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
          <Image  
-        src="/images/about/mmu.jpg"
+        src="/images/about/mmu.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
       
       <Image  
-        src="/images/about/mins.jpg"
+        src="/images/about/mins.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -296,14 +296,14 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
 
                   <h1></h1>
       <Image 
-        src="/images/about/sin.JPG"
+        src="/images/about/sin.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
 
  <Image 
-         src="/images/about/mingoo.JPG"
+         src="/images/about/mingoo.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -409,7 +409,7 @@ https://sunnah.com/urn/7494345
 
 
   <Image 
-        src="/images/about/nino.jpg"
+        src="/images/about/mik.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -450,14 +450,14 @@ https://sunnah.com/urn/7494345
 
 
  <Image 
-         src="/images/about/bbcc.JPG"
+         src="/images/about/bbcc.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
        
  <Image 
-         src="/images/about/bbccc.JPG"
+         src="/images/about/bbccc.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -466,7 +466,7 @@ https://sunnah.com/urn/7494345
 
        
  <Image 
-         src="/images/about/mikos.JPG"
+         src="/images/about/mikos.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -474,7 +474,7 @@ https://sunnah.com/urn/7494345
 
 
        ሶ በሱረቱል ሙሃመድ ጨምሮ  በአረብ በረሃ ባከባቢው የሌሉትን ነገሮች እየጠቀሰ በገነት ይሄ አለ እያለ ገነትን ለነሱ ማጉዋጉዋት ቀጠለ <Image 
-        src="/images/about/hel.jpg"
+        src="/images/about/hel.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -491,7 +491,7 @@ https://sunnah.com/urn/7494345
 
       የገነት ብቸኛው መግብያና ቁልፍ ጂሃድ ብቻ አድርጎ ያቀርብ ነበረ
        <Image 
-        src="/images/about/fkin.jpg"
+        src="/images/about/fkin.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -569,6 +569,7 @@ https://sunnah.com/urn/7494345
       />
 ለምን ምንድነው የቁረሽ ህዝቦችን እዚህ ውሳኔ ላይ ያደረሳቸው ስንል፤ ፤በግልጽ የቁረሽ ህዝቦችን እኔ በምለው ከተስማማቹ አረብ 
 ያልሆኑት ለናንተ ጂዝያ ይከፍላሉ ይላቸው ነበረ፤ ጂዝያ ማለት ከመገደል የምታቀርበው ካሳ ነው፡፡ሃብታምም የሚያደርግ ነው (ቁራን ሱራ 93፤8)ሙሃመድ አረብ ያልሆኑት ህዝቦች ላይ ሞት ያወጀ ነው፡፡
+ሙሃመድ እራሱ የተከታይ ጥማት እንዳለበት በአንደበቱ 10 አይሁዳዊ ቢያምነኝ ፤ ሙሉ አይሁድ ያምነኝ ነበረ ይላል
 <Image 
         src="/images/about/vnn.jpg"
         alt="My Photo" 
@@ -649,7 +650,7 @@ https://sunnah.com/urn/7494345
        ሙሃመድ ተከታይ ይጨምርለት ዘንድ ለጣኦት እንደሰገደለት ነዉ፡፡
        https://quran-tafsir.net/seoty/sura22-aya52.html
       <Image 
-        src="/images/about/bilos1.jpg"
+        src="/images/about/bilos1.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -755,7 +756,7 @@ https://sunnah.com/urn/7494345
       />
 
  <Image 
-        src="/images/about/vee.jpg"
+        src="/images/about/vee.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -918,7 +919,9 @@ https://sunnah.com/urn/7494345
         alt="My Photo" 
         width={500} 
         height={300} 
-      /> <Image 
+      /> 
+      
+      <Image 
         src="/images/about/goo2.jpg"
         alt="My Photo" 
         width={500} 
@@ -937,7 +940,7 @@ https://sunnah.com/urn/7494345
                   አንድ ሰው የተካኩበትን ማህበረሰብ ፈጣሪየ አቃጥል ዘንድ አዘዘኝ ቢል ጤናማ ነው፡፡
                         </h3>
     <Image 
-        src="/images/about/noons.jpg" 
+        src="/images/about/noons.JPG" 
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1070,7 +1073,7 @@ https://sunnah.com/urn/7494345
 
                   <h1></h1>
       <Image 
-        src="/images/about/ki1.JPG"
+        src="/images/about/ki1.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1078,7 +1081,7 @@ https://sunnah.com/urn/7494345
 
              <h1></h1>
       <Image 
-        src="/images/about/ki2.JPG"
+        src="/images/about/ki2.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1086,7 +1089,7 @@ https://sunnah.com/urn/7494345
 
 
   <Image 
-        src="/images/about/bilosffgf.jpg"
+        src="/images/about/bilosffgf.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1187,7 +1190,7 @@ https://sunnah.com/urn/7494345
 
 
 እስልምናን ሙሃመድ
-ያቆመው ሙሃመድ ባሳየው ታምር አይደለም (እስቲ ሙሃመድ በቁራን ላይ የማደርገውን ስራ ታምር አይታቹ እመኑ ያለበት አምጣ? 
+ያቆመው ሙሃመድ ባሳየው ታምር አይደለም (እስቲ ሙሃመድ በቁራን ላይ የማደርገውን ስራ ታምር አይታቹ እመኑ ያለበት አምጣ? ሙሃመድ ታምር ባለማድረጉ ይጨነቅ ነበረ
  <Image 
         src="/images/about/fr2.jpg"
         alt="My Photo" 
@@ -1517,19 +1520,19 @@ https://sunnah.com/urn/7494345
 they came to you hungrey from the desert offering poverty in the name of God.
 God finds any one else to send in the name of the God to invade plunder, kill and Sloughter?
       <Image 
-        src="/images/about/mik.jpg"
+        src="/images/about/mik.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
       <Image 
-        src="/images/about/ccs.jpg"
+        src="/images/about/ccs.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
       <Image 
-        src="/images/about/bo.jpg"
+        src="/images/about/bo.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1555,7 +1558,7 @@ God finds any one else to send in the name of the God to invade plunder, kill an
       />
       በሴት እንዳትፈትነኝ ስላለው ገሃነም ገቢ እንደሆነ የቁራን ክፍል ወረደልኝ አለ
       <Image 
-        src="/images/about/bbb.jpg"
+        src="/images/about/bbb.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1666,7 +1669,7 @@ https://www.youtube.com/shorts/HxEJt6lzsXA
       /> 
       
        <Image 
-        src="/images/about/fr1.jpg"
+        src="/images/about/fr1.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1710,7 +1713,7 @@ https://www.youtube.com/shorts/HxEJt6lzsXA
         height={300} 
       /> 
          <Image 
-        src="/images/about/fkksk2.jpg"
+        src="/images/about/fkksk2.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1735,19 +1738,19 @@ https://www.youtube.com/shorts/HxEJt6lzsXA
         height={300} 
       /> 
          <Image 
-        src="/images/about/fkksk6.jpg"
+        src="/images/about/fkksk6.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
       <Image 
-        src="/images/about/fkksk7.jpg"
+        src="/images/about/fkksk7.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/fkksk8.jpg"
+        src="/images/about/fkksk8.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1971,7 +1974,7 @@ https://sunnah.com/bukhari:3617
 
     
 <Image 
-        src="/images/about/fff.PNG"
+        src="/images/about/fff.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -2067,7 +2070,7 @@ https://sunnah.com/bukhari:3617
   <div>
       <h1></h1>
       <Image 
-        src="/images/about/c1.PNG"
+        src="/images/about/c1.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -2076,7 +2079,7 @@ https://sunnah.com/bukhari:3617
   <div>
       <h1></h1>
       <Image 
-        src="/images/about/c2.PNG"
+        src="/images/about/c2.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -2111,7 +2114,7 @@ https://sunnah.com/bukhari:3617
  <div>
       <h1></h1>
       <Image 
-        src="/images/about/fol.PNG"
+        src="/images/about/fol.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -2131,7 +2134,7 @@ https://sunnah.com/bukhari:3617
   <div>
       <h1></h1>
       <Image 
-        src="/images/about/bar5.PNG"
+        src="/images/about/bar5.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -2347,7 +2350,7 @@ https://sunnah.com/bukhari:3617
 
 
  <Image 
-        src="/images/about/jjj.JPG"
+        src="/images/about/jjj.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -3458,7 +3461,7 @@ Ascension into heaven (Luke 24:50–53; Acts 1:9–11)
  <br></br>
 
    <Image 
-        src="/images/about/bb.jpg"
+        src="/images/about/bb.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -3468,7 +3471,7 @@ Ascension into heaven (Luke 24:50–53; Acts 1:9–11)
            the last voice before the longest silence in history
 
  <Image 
-        src="/images/about/mni.jpg"
+        src="/images/about/mni.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -3477,7 +3480,7 @@ Ascension into heaven (Luke 24:50–53; Acts 1:9–11)
 እዚጋር ጌታችን ብዙሃን ፈተው ይርአዩ አንትሙ ዘትሬእዩ ከሚለው ጋር አገናኘዉ
 
        <Image 
-        src="/images/about/mm.jpg"
+        src="/images/about/mm.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -3505,26 +3508,26 @@ Ascension into heaven (Luke 24:50–53; Acts 1:9–11)
 
 ስለዚህ በጉጉት ይጠበቅ ነበረ፤ በጌታ ዘመን እንኩዋ በጉጉት ይጠበቅ እንደነበረ 
  <Image 
-        src="/images/about/dn.jpg"
+        src="/images/about/dn.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
 
        <Image 
-        src="/images/about/nnk.jpg"
+        src="/images/about/nnk.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
        <Image 
-        src="/images/about/nnms.jpg"
+        src="/images/about/nnms.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
        <Image 
-        src="/images/about/vi.jpg"
+        src="/images/about/vi.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -3566,19 +3569,19 @@ Ascension into heaven (Luke 24:50–53; Acts 1:9–11)
         height={300} 
       />
                <Image 
-        src="/images/about/kkc.jpg"
+        src="/images/about/kkc.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
                <Image 
-        src="/images/about/kk4.jpg"
+        src="/images/about/kk4.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
                  <Image 
-        src="/images/about/kk5.jpg"
+        src="/images/about/kk5.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -3746,21 +3749,21 @@ how does hashim believe that you should ouner; god? Hashim believes that the way
 (Acts 3:25–26) 
 
   <Image 
-        src="/images/about/good4.jpg"
+        src="/images/about/good4.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
      
        <Image 
-        src="/images/about/bnm.jpg"
+        src="/images/about/bnm.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
 
 <Image 
-        src="/images/about/bnm1.jpg"
+        src="/images/about/bnm1.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
@@ -3774,7 +3777,7 @@ how does hashim believe that you should ouner; god? Hashim believes that the way
 
 
 <Image 
-        src="/images/about/ccf.jpg"
+        src="/images/about/ccf.JPG"
         alt="My Photo" 
         width={500}    
         height={300} 
@@ -3785,7 +3788,7 @@ how does hashim believe that you should ouner; god? Hashim believes that the way
 
 
 <Image 
-        src="/images/about/ccf.jpg"
+        src="/images/about/ccf.JPG"
         alt="My Photo" 
         width={500}    
         height={300} 
@@ -3867,7 +3870,7 @@ how does hashim believe that you should ouner; god? Hashim believes that the way
       />
 
        <Image 
-        src="/images/about/bbc11.jpg"
+        src="/images/about/bbc11.JPG"
         alt="My Photo" 
         width={500}    
         height={300} 
@@ -3889,14 +3892,14 @@ how does hashim believe that you should ouner; god? Hashim believes that the way
 
 
 <Image 
-        src="/images/about/good5.jpg"
+        src="/images/about/good5.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
  
   <Image 
-        src="/images/about/good3.jpg"
+        src="/images/about/good3.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
@@ -3907,7 +3910,7 @@ how does hashim believe that you should ouner; god? Hashim believes that the way
   እንቀጥል፤ያቆብ 12 ልጆች ወለደ ከ12 ልኮቹ ለይቶ 
 2 .  ያቆብ   ይሁዳን እግዚአብሄር  ከዘርክ  በትር ይወጣል፡አለዉ፤
 <Image 
-        src="/images/about/good6.jpg"
+        src="/images/about/good6.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
@@ -3915,7 +3918,7 @@ how does hashim believe that you should ouner; god? Hashim believes that the way
 ይህን ጄኔሲስ ኦንኬሎስ ለ መሲው ነው ይላል፡፡ አስተውሉ ይህን የሚለው ለዘላለም የሚነግሰው እስኪመጣ ድረስ ነው ከመጣ ቡሃላ ግን ከይሁዳ እንደሚወጣ የሚናገር ነው 
 ይህም ጌታችን  የእግዚአብሄር መንግስት ከናንተ ትወሰድና ለሚያደርግ ህዝብ ትሰጣለች የሚለውን የሚያሲዝ ነው 
  <Image 
-        src="/images/about/good.jpg"
+        src="/images/about/good.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
@@ -3930,7 +3933,7 @@ how does hashim believe that you should ouner; god? Hashim believes that the way
 
 
          <Image 
-        src="/images/about/mnn.jpg"
+        src="/images/about/mnn.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
@@ -3951,43 +3954,43 @@ how does hashim believe that you should ouner; god? Hashim believes that the way
 
 
 <Image 
-        src="/images/about/good8.jpg"
+        src="/images/about/good8.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
 <Image 
-        src="/images/about/good6.jpg"
+        src="/images/about/good6.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
       <Image 
-        src="/images/about/good8.jpg"
+        src="/images/about/good8.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
         <Image 
-        src="/images/about/good10.jpg"
+        src="/images/about/good10.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
        <Image 
-        src="/images/about/good11.jpg"
+        src="/images/about/good11.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
        <Image 
-        src="/images/about/good11.jpg"
+        src="/images/about/good11.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
        <Image 
-        src="/images/about/good13.jpg"
+        src="/images/about/good13.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
@@ -4002,7 +4005,7 @@ how does hashim believe that you should ouner; god? Hashim believes that the way
 
 
                 <Image 
-        src="/images/about/singo.jpg"
+        src="/images/about/singo.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
@@ -4013,7 +4016,7 @@ how does hashim believe that you should ouner; god? Hashim believes that the way
 እርሱ ብቻ አይደለም ይህን የተረዱ አይሁዶች ይህንን ለመሲው ትንቢት ነው በማለት ይሰጡት ነበረ፡፡
 
  <Image 
-        src="/images/about/good15.jpg"
+        src="/images/about/good15.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
@@ -4027,49 +4030,49 @@ how does hashim believe that you should ouner; god? Hashim believes that the way
 
 <br></br>
 <Image 
-        src="/images/about/good16.jpg"
+        src="/images/about/good16.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
       <Image 
-        src="/images/about/good17.jpg"
+        src="/images/about/good17.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
       <Image 
-        src="/images/about/good18.jpg"
+        src="/images/about/good18.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
       <Image 
-        src="/images/about/good20.jpg"
+        src="/images/about/good20.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
         <Image 
-        src="/images/about/good21.jpg"
+        src="/images/about/good21.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
        <Image 
-        src="/images/about/good22.jpg"
+        src="/images/about/good22.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
        <Image 
-        src="/images/about/good23.jpg"
+        src="/images/about/good23.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
         <Image 
-        src="/images/about/good24.jpg"
+        src="/images/about/good24.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
@@ -4094,45 +4097,45 @@ Moses is called "the servant of the LORD" (Deuteronomy 34:5).
 David is called "my servant David" (Ezekiel 34:23).
 <br></br>
  <Image 
-        src="/images/about/good25.jpg"
+        src="/images/about/good25.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
        <Image 
-        src="/images/about/good26.jpg"
+        src="/images/about/good26.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
        <Image 
-        src="/images/about/good27.jpg"
+        src="/images/about/good27.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
 
    <Image 
-        src="/images/about/good28.jpg"
+        src="/images/about/good28.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
 
    <Image 
-        src="/images/about/good30.jpg"
+        src="/images/about/good30.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       /> <Image 
-        src="/images/about/good31.jpg"
+        src="/images/about/good31.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 
       />
 
 <Image 
-        src="/images/about/good32.jpg"
+        src="/images/about/good32.JPG"
         alt="My Photo" 
         width={500}   
         height={300} 

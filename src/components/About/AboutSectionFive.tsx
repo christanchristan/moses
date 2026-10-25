@@ -139,6 +139,8 @@ Lord https://www.quranv.com/am/28/46 በጠራነውም ጊዜ በጡር ጎን 
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
               ቁረሾች እነሱም የምናምነዉ ታምር ስታሳየን ብቻ ነዉ አሉት፡፡ ታምር ማሳየት ባለመቻሉ ሊቀበሉት አልቻሉም ነበረ፡፡ 
+              ወይም ደግሞ እነሱ ከተኙና በራቸውን ከዘጉ ቡሃላ ፤ታምር አደረኩ እያለ፤ይናገር ነበረ፡፡ ሙሃመድ ወደ ሰማይ አረኩም ያለዉ ጨረቃንም ገመስኩ ያለው በሌሊት ነው፡፡ 
+               ሙሃመድ በጭለማ ለደበቅ የሞከረ ሰው ነው፡፡
 የቁረሽ ህዝቦች ለ 12 ለመታት ከእርሱ ጋር ሲኖሩ፤ታምርን ብታሳየን በቁርጥ ሊያምኑበት ፤ ቃል ኪዳን
  ገብተዉለት ነበረ፤ ሱራ 6፤ ነገር ግን፤ ሙሃመድ በመካ  ዘመዶቹና ቤተሰቦቹ ተቆጥረዉ 70-100 ተከታዮችን በቻ ነዉ 
  ሊያመጣ የቻለዉ፤ ይህም፤በመካ ምንም ታምር አለማድረጉን  አመልካች ነዉ፡፡በተጨማሪም  ሙሃመድ ታምር 
@@ -223,7 +225,7 @@ Jihad is an obligatory duty on every Muslim , and he who tries to escape from hi
 <div>
       <h1></h1>
       <Image 
-        src="/images/about/mn7.PNG"
+        src="/images/about/mn7.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -233,7 +235,7 @@ Jihad is an obligatory duty on every Muslim , and he who tries to escape from hi
 <div>
       <h1></h1>
       <Image 
-        src="/images/about/nm1.PNG"
+        src="/images/about/nm1.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -242,7 +244,7 @@ Jihad is an obligatory duty on every Muslim , and he who tries to escape from hi
     <div>
       <h1></h1>
       <Image 
-        src="/images/about/nm2.PNG"
+        src="/images/about/nm2.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -252,7 +254,7 @@ Jihad is an obligatory duty on every Muslim , and he who tries to escape from hi
     <div>
       <h1></h1>
       <Image 
-        src="/images/about/nm3.PNG"
+        src="/images/about/nm3.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -262,7 +264,7 @@ Jihad is an obligatory duty on every Muslim , and he who tries to escape from hi
      <div>
       <h1></h1>
       <Image 
-        src="/images/about/nm4.PNG"
+        src="/images/about/nm4.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -271,7 +273,7 @@ Jihad is an obligatory duty on every Muslim , and he who tries to escape from hi
      <div>
       <h1></h1>
       <Image 
-        src="/images/about/nm5.PNG"
+        src="/images/about/nm5.png"
         alt="My Photo" 
         width={500} 
         height={300} 

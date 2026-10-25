@@ -1494,25 +1494,25 @@ Lied to
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho2.jpg"
+        src="/images/about/ho2.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho3.jpg"
+        src="/images/about/ho3.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho4.jpg"
+        src="/images/about/ho4.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho5.jpg"
+        src="/images/about/ho5.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1521,79 +1521,79 @@ Lied to
 
 
        <Image 
-        src="/images/about/ho6.jpg"
+        src="/images/about/ho6.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho7.jpg"
+        src="/images/about/ho7.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />  <Image 
-        src="/images/about/ho8.jpg"
+        src="/images/about/ho8.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho9.jpg"
+        src="/images/about/ho9.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho10.jpg"
+        src="/images/about/ho10.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho11.jpg"
+        src="/images/about/ho11.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho12.jpg"
+        src="/images/about/ho12.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho13.jpg"
+        src="/images/about/ho13.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
 
        <Image 
-        src="/images/about/ho14.jpg"
+        src="/images/about/ho14.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho15.jpg"
+        src="/images/about/ho15.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho16.jpg"
+        src="/images/about/ho16.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho17.jpg"
+        src="/images/about/ho17.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho18.PNG"
+        src="/images/about/ho18.png"
         alt="My Photo" 
         width={500} 
         height={300} 

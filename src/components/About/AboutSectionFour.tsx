@@ -49,7 +49,8 @@ const AboutSectionFour = () => {
 
      Arabic: ﴿مَا كَانَ لِيَأْخُذَ أَخَاهُ فِي دِينِ الْمَلِكِ﴾ (Mā kāna li-ya'khudha akhāhu fī dīni al-malik) ሲል ከአውዱም ኢብኑ ከሲርም እንደተረጎመው፤  fī dīni al-malik ማለት የንጉሱ አገዛዝ ማለት ነው ፡፡ ስለዚህ ዲን ማለት አገዛዝ የሚለውን ይዛል፡፡ 
      ታድያ ክርስትያኖችን ዲንክ(አገዛዝክ) ምንድነው ብትሉዋቸው፤ ክስሙ ተነስተው ክርስትያን ነን ፤ ክርስቶስን ነው የምንከተለው የምንገዛው ይላሉ፤ ሂንዱዚምሞችንም አገዛዛቹ ምንድነው ብትሉዋቸው፤
-     አገዛዜ የሁንዱ ነዉ ሂንዱን ነው የምገዛው ይላል፤ እስልምና ጋር ግ ን አገዛዝክ ምንድነው ስትለው፤ አገዛዜ መገዛት ይባላል፤ ይላል፤ ባጭሩ የሃይማኖቱ ስም ሃYማኖቱን አይገልጽም፤ መገዛት፤ መባረክ ፤ መታዘዝ፤ መደንፋት ፤ መብላት ፤ መጠጣት የሚባሉ ሃይማኖት ሊኖሩ አይችሉም
+     አገዛዜ የሁንዱ ነዉ ሂንዱን ነው የምገዛው ይላል፤ እስልምና ጋር ግ ን አገዛዝክ ምንድነው ስትለው፤ አገዛዜ መገዛት ይባላል፤ ይላል፤ለስልጣንናና ሰዎችን ለመግዛት ካለው ፍላጎት የተነሳ 
+     ሙሃመድ ሃይማኖቱን ሳይቀር መገዛት ብሎታል፡፡ ባጭሩ የሃይማኖቱ ስም ሃYማኖቱን አይገልጽም፤ መገዛት፤ መባረክ ፤ መታዘዝ፤ መደንፋት ፤ መብላት ፤ መጠጣት የሚባሉ ሃይማኖት ሊኖሩ አይችሉም
       <br></br> 
 
 
@@ -113,7 +114,11 @@ const AboutSectionFour = () => {
 እስልምና ማለት እጅ መስጠት = መገዛት ማለት ሲሆን እጅ የሚሰጠው=የምትገዛው  ለሙሃመድ ፍርድና ውሳኔ ነው፤ አንድ ሰው ለሙሃመድ ፍርድ
 እስካልተገዛ ድረስ አማኝ አይደለም፤ ላ ዩሚኑን ሃተ ዩሃኪሙከ በይነ ሸጀራ ሲቀጥል አንድ ሰው በሙሃመድ አምላክ ከልቡ ሳያምን ኢስላም ነኝ ማለት ይችላል፡፡
 ስለዚህ ኢስላም ለመባል፤ ሙሃመድን መገዛት እንጂ አላህን ማመን ነሰሰርሊይ ግዴታ አይደለም፡፡
-እስልምና ለመጀመርያ ጊዜ በስም ደረጃ የተተዋወቀውና የተጠራዉ በመዲና ነው፡፡የእስክምናን አስተምህትን አመጣጥ ለማወቅ መጀመርያ
+እስልምና ለመጀመርያ ጊዜ በስም ደረጃ የተተዋወቀውና የተጠራዉ በመዲና ነው፡
+<br></br><br></br>
+<h1> የእስልምና አስተምህሮ ምንጭ</h1>
+
+ስለ ስሙ ብቻ ይህን ካልን ቀጥለን፤ የእስክምናን አስተምህትን አመጣጥና ምንጭ ለማወቅ መጀመርያ
 ለምን መጽሃፉ ከክርስትያኖች መጽሃፍ ጋር የሚመሳሰል ተገኘበት አብርሃም ኢብራሂ ኢሳ ኢየሱስ .. የሚባሉ ስሞች ለምን ተገኘበት እንዲሁም ፤ ለምን 
 ከተገለበጠስ እንኩዋ በስትክክል አልተገለበጠም?ለምን እስካሁን ድረስ ያንተ ወይም ያንቺ ቁራን የኔን መጽሃፍቅዱስ ይፈልጋል፡፡ለምሳሌ አንዱ አንዱን ገደለው ይላል፤ ቃኤን አቤልን ገደለው ለማለት፤
  ቃል ኪዳን አይሁዶችና ክርስትያኖች ተቀብለዋል ይላል
@@ -124,7 +129,7 @@ const AboutSectionFour = () => {
 
 
  <Image 
-         src="/images/about/prom.JPG"
+         src="/images/about/prom.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -132,7 +137,7 @@ const AboutSectionFour = () => {
 
 
  <Image 
-         src="/images/about/mingoo.JPG"
+         src="/images/about/mingoo.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -147,6 +152,7 @@ const AboutSectionFour = () => {
 ያወቁት ነገር በመጣላቸው ጊዜ በርሱ ካዱ የሚለን፡፡ ማን ነው ማንን የገደለው ብለን ስንጠይቅ፤ የምታውቁት ቃኤል ነው፤ አቤልን የገደለው ብለን እንድንረዳ፤
 ስለየትኛው ቃል ኪዳን ነው የምታወራው ሲባል ፤ ቁራኑ የምታውቁት ከጌታቹ የተቀበላቹት ነው ለማለት ፤ ያወቁት ነገር በመጣላቸው ጊዜ በርሱ ካዱ ይለናል፡፡
 ሶ አንድ አስተማሪ ትላንት ከባይሎጂ መጽሃፍ እየጠቀሰ ካስተማረ ቡሃላ፤ በንጋታዉ ሲገባ ሃይላይት ሲሰጥ ትላንት ከጠቀሰው  መጽሃፍ ሁሉንም እንደማይጠቅስና  እንደማይዳሥስ ሁሉ ፤ ቁራንም፤ ጫፍ ጫፉን ብቻ እየተናገረ ያልፋቸዋል፡፡
+ስለ ክርስትያኖች ወይም አይሁዶች  ታሪክ በተናገረበት አንቀጾች መጨረሽ ሁሉ፤ መጨረሻ ላይ ታሪኩን ከክርርስትያኖችና ከአትሁዶች ጋር ያገናኘዋል፡፡ <br></br>
 ፡ቀጣዩ ጥያቄ 
 እነዚህን አስተምህሮዎች ኬት ሊያገኝ ቻለ ስንል ፤ ሙሃመድ የአርዮስ ተከታይ የነበረና በመዲና እስልምናን መረጥኩ ከማለቱ በፊት ፤ የሃኒፊያን
  እምነት ያራምድ  እንደነበረ ማስረጆች ያሳያሉ ፡፡ 
@@ -157,7 +163,7 @@ const AboutSectionFour = () => {
 
   
  <Image 
-         src="/images/about/h1.JPG"
+         src="/images/about/h1.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -181,20 +187,20 @@ const AboutSectionFour = () => {
    ክርስትና አይደለም፤ ) ስለዚህ ቁራን ሙሃመድን ወደ ሃኒፊያ ፊትክን አዙር ሲለው (ሱራ 30፡30)፤ ወረቃ ወዳዞረው እምነት ፊትክን አዙር ፤አዘንብል እያለው ነው፤ ከዚህ ተነስተው ነው
   አንዳንድ  የእስልምና ሼኮች ሙሃመድ ክርስትያን ነበረ የሚሉት
  <Image 
-         src="/images/about/h2.JPG"
+         src="/images/about/h2.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
        /> 
 
 <Image 
-         src="/images/about/h3.JPG"
+         src="/images/about/h3.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
        /> 
        <Image 
-         src="/images/about/h4.JPG"
+         src="/images/about/h4.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -286,7 +292,7 @@ const AboutSectionFour = () => {
 
 
     <Image 
-        src="/images/about/dis.JPG"
+        src="/images/about/dis.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -603,39 +609,39 @@ const AboutSectionFour = () => {
 <br></br>
 
  <Image 
-         src="/images/about/mus18.JPG"
+         src="/images/about/mus18.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
        /> 
        <Image 
-         src="/images/about/mus19.JPG"
+         src="/images/about/mus19.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
        /> 
 
 <Image 
-         src="/images/about/mus20.JPG"
+         src="/images/about/mus20.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
        /> 
        <Image 
-         src="/images/about/mus21.JPG"
+         src="/images/about/mus21.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
        /> 
        <Image 
-         src="/images/about/mus22.JPG"
+         src="/images/about/mus22.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
        /> 
 
 <Image 
-         src="/images/about/mus23.JPG"
+         src="/images/about/mus23.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -688,7 +694,7 @@ The Bedouins say, 'We believe' ($Āmannā$). Say [to them], 'You do not believe;
 ታዛዝ  የሚለውን   የአረበኛ  ቃል ፤ ለሙስሊም ሰተክ ፤ አብርሃም ሙስሊም ነበረ ብትል ማን ይሰማካል ፤   የሙሃመድ ተከታዮችን አላህ የሚላቸው ያ አዩሃ አለዚነ አመኑ ሙእሚን ነው እንጂ ሙስሊም አይደለም
 
 <Image 
-         src="/images/about/mus27.JPG"
+         src="/images/about/mus27.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -697,7 +703,7 @@ The Bedouins say, 'We believe' ($Āmannā$). Say [to them], 'You do not believe;
 
        
 <Image 
-         src="/images/about/mus28.JPG"
+         src="/images/about/mus28.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -939,25 +945,25 @@ sura 17:93
 ሲቀጥል  የታምር አላማው ሰውን ማሳመን ከሆነና ፤ ሙሃመድ የእውነት ግልጽ ታምር ካደረገ፤ ለምንድነው  ያላመኑበት ?
 
  <Image 
-         src="/images/about/moon.JPG"
+         src="/images/about/moon.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
         <Image 
-         src="/images/about/moon1.JPG"
+         src="/images/about/moon1.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
         <Image 
-         src="/images/about/moon3.JPG"
+         src="/images/about/moon3.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
         <Image 
-         src="/images/about/noon4.JPG"
+         src="/images/about/noon4.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -966,7 +972,7 @@ sura 17:93
       
 
   <Image 
-         src="/images/about/noon5.JPG"
+         src="/images/about/noon5.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -1281,32 +1287,32 @@ Queen of Sheba: 27,72
 
 
  <Image 
-         src="/images/about/m1.JPG"
+         src="/images/about/m1.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
        /> 
         <Image 
-         src="/images/about/m2.JPG"
+         src="/images/about/m2.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
        /> 
         <Image 
-         src="/images/about/m3.JPG"
+         src="/images/about/m3.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
        /> 
         <Image 
-         src="/images/about/m4.JPG"
+         src="/images/about/m4.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
        /> 
 
         <Image 
-         src="/images/about/m5.JPG"
+         src="/images/about/m5.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -1421,34 +1427,34 @@ altermizi :2653
 
 
   <Image 
-         src="/images/about/mff.jpg"
+         src="/images/about/mff.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
         
        <Image 
-         src="/images/about/mff1.jpg"
+         src="/images/about/mff1.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
         <Image 
-         src="/images/about/mff2.jpg"
+         src="/images/about/mff2.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
 
  <Image 
-         src="/images/about/mff3.jpg"
+         src="/images/about/mff3.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
        
  <Image 
-         src="/images/about/bbv1.jpg"
+         src="/images/about/bbv1.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -1456,28 +1462,28 @@ altermizi :2653
        
        
         <Image 
-         src="/images/about/bbv2.jpg"
+         src="/images/about/bbv2.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
 
  <Image 
-         src="/images/about/bbv3.jpg"
+         src="/images/about/bbv3.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
 
  <Image 
-         src="/images/about/bbv4.jpg"
+         src="/images/about/bbv4.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
 
  <Image 
-         src="/images/about/bbv5.jpg"
+         src="/images/about/bbv5.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -1485,14 +1491,14 @@ altermizi :2653
 
 
  <Image 
-         src="/images/about/bbv6.jpg"
+         src="/images/about/bbv6.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
 
         <Image 
-         src="/images/about/bbv7.jpg"
+         src="/images/about/bbv7.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 

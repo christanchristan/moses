@@ -745,7 +745,7 @@ Origen of Alexandria (Church History 6.25.4):
  </h1>
 <h1></h1>
       <Image 
-        src="/images/about/go.JPG"
+        src="/images/about/go.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -753,7 +753,7 @@ Origen of Alexandria (Church History 6.25.4):
 ጄሮምም የማትዮስን ወንጌል ማትዮስ እንደጻፈው
 
   <Image 
-        src="/images/about/go5.jpg"
+        src="/images/about/go5.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -762,7 +762,7 @@ Origen of Alexandria (Church History 6.25.4):
 
 
   <Image 
-        src="/images/about/g6.jpg"
+        src="/images/about/g6.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -771,7 +771,7 @@ Origen of Alexandria (Church History 6.25.4):
 ጄሮምም ሉቃስ የሉቃ ወንጌልን እንደጻፈ 
       <h1></h1>
       <Image 
-        src="/images/about/go2.jpg"
+        src="/images/about/go2.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -779,7 +779,7 @@ Origen of Alexandria (Church History 6.25.4):
       ጄሮምም የማርቆስን ወንጌል ቅዱስ ማርቆስ እንደጻፈው
 
 <Image 
-        src="/images/about/go3.jpg"
+        src="/images/about/go3.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -787,14 +787,14 @@ Origen of Alexandria (Church History 6.25.4):
 
 
 <Image 
-        src="/images/about/go7.jpg"
+        src="/images/about/go7.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
 
       <Image 
-        src="/images/about/mkks.jpg"
+        src="/images/about/mkks.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 

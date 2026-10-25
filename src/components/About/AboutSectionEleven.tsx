@@ -158,38 +158,38 @@ John of Damascus, De Haeresibus, §100 (PG 94, col. 763)
   <br></br>  <br></br> 
   <h1> </h1>
       <Image 
-        src="/images/about/sam45.jpg"
+        src="/images/about/sam45.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
         <Image 
-        src="/images/about/sam46.jpg"
+        src="/images/about/sam46.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
 
         <Image 
-        src="/images/about/sam47.jpg"
+        src="/images/about/sam47.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
   <Image 
-        src="/images/about/sam48.jpg"
+        src="/images/about/sam48.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
   <Image 
-        src="/images/about/sam49.jpg"
+        src="/images/about/sam49.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
         <Image 
-        src="/images/about/sam50.jpg"
+        src="/images/about/sam50.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -202,7 +202,7 @@ John of Damascus, De Haeresibus, §100 (PG 94, col. 763)
       />
 
         <Image 
-        src="/images/about/biloss.jpg"
+        src="/images/about/biloss.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -212,34 +212,31 @@ John of Damascus, De Haeresibus, §100 (PG 94, col. 763)
 
 <h1> </h1>
       <Image 
-        src="/images/about/uuk2.jpg"
+        src="/images/about/uuk2.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
 
        <Image 
-        src="/images/about/samad.jpg"
+        src="/images/about/samad.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
        <Image 
-        src="/images/about/samad2.jpg"
+        src="/images/about/samad2.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
       <Image 
-        src="/images/about/mum.jpg"
+        src="/images/about/mum.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
       
-
-
-
 
 <h1> </h1> <br></br> 
   ታድያ እንደዚህ ተብሎ ሲጠየቅ ሙሃመድ ምን ብሎ መለሰ አላህ ሰመድ ነው አለ፡፡
@@ -252,7 +249,7 @@ John of Damascus, De Haeresibus, §100 (PG 94, col. 763)
       />  
 
       <Image 
-        src="/images/about/u4k.jpg"
+        src="/images/about/u4k.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -274,7 +271,7 @@ John of Damascus, De Haeresibus, §100 (PG 94, col. 763)
 
   <br></br> 
       <Image 
-        src="/images/about/bilos.jpg"
+        src="/images/about/bilos.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -284,7 +281,7 @@ John of Damascus, De Haeresibus, §100 (PG 94, col. 763)
        ሙሃመድ ተከታይ ይጨምርለት ዘንድ ለጣኦት እንደሰገደለት ነዉ፡፡
        https://quran-tafsir.net/seoty/sura22-aya52.html
       <Image 
-        src="/images/about/bilos1.jpg"
+        src="/images/about/bilos1.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -305,7 +302,7 @@ John of Damascus, De Haeresibus, §100 (PG 94, col. 763)
 
 <br></br> 
       <Image 
-        src="/images/about/nnm.jpg"
+        src="/images/about/nnm.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -320,7 +317,7 @@ John of Damascus, De Haeresibus, §100 (PG 94, col. 763)
 
       <br></br> 
       <Image 
-        src="/images/about/ffu.jpg"
+        src="/images/about/ffu.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -605,7 +602,7 @@ Sunan abi dawud 4718 <br></br>
 
 <br></br> <br></br>8 በሁሉም መስኪድ ላይ የተሰቀለ የጨረቃ ቅርጽ በመስኪድ አናት ላይ አለ፤
  <br></br> <br></br>9። በ እስልምና ሙስሊሞች አራያ እንዲያደርጉት የታዘዙት ሙሃመድን ነው፤ሙሃመድን ደግሞ መላ ዘመኑን ጣኦት ተለይቶት አያውቅም፤ 
- ተገለጠልኝ ያለው በ 40 አመቱ ነዉ፤ ለ 40 አመታት የአባቱን ጣኦትን ሲያመልክ መኖሩ ግልጽ ነው፤
+ ተገለጠልኝ ያለው በ 40 አመቱ ነዉ፤ ለ 40 አመታት የአባቱን ጣኦትን ሲያመልክ መኖሩ ግልጽ ነው፤ለአላት ለተባለችው ጣኦት ይሰዋ ነበረ፤
 10። ጂብሪል መጣልኝ ከማለቱ ከ 6 ወር ቡሃላ ገደማ ፤ በ ሱራ 74፤1 ሙሃመድ ከጣኦታት እራቅ ተብሉዋል፤ 
 <br></br> <br></br>11 ሙሃመድ ጂብሪል  ተገለጠልኝ ካለ  ከ 5 አመት ቡሃላ ለአላት አሉዛና መናት ለሚባሉ ጣኦታት ሰግዱዋል፤ተፍሲር 
 12ተገለጠልኝ ካለ  ከ 14 አመት አመት ገደማ ፤ በ 2ተኛ አመት ሂጂራ ጀምሮ፤ በመዲና ሆኖ ፊቱን ወደ ካባ አዙሮ 360 ጣኦታት ወዳሉበት እስከ ፈት ዘመቻ ድረስ  ለ 8 አመታት ዞሮ ወደጣኦታቱ አላትን፤አሉዛና መናትን የመሰሉ ጣኦታት ወደሚገኙበት እየሄደ  ይሰግድ ነበረ፤ 
