@@ -375,7 +375,13 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
  
 
 ታድያ ቅዱስ ጻውሎስ መጨረሻቸው ጥፋት ነው ባለን መሰረት፤የሙስሊሞች ሞዴል የሆነው የሙሃመድ  የዚህ ግለሰብ  መጨረሻ ጥፋት መሆኑን፤ የኑሮ ገንዘቤን የማገኘው በጦርነት ነው ይለናል፤
-
+https://sunnah.com/urn/7494345
+ <Image 
+        src="/images/about/Capturesx.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
 
 
    <Image 
@@ -392,6 +398,13 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
         width={500} 
         height={300} 
       />
+        https://sunnah.com/bukhari:3024
+       <Image 
+        src="/images/about/muma.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
 ሶ በሰይፍ ገንዘብን መስራት፤ በባህሪው በተናጥል የሚሰራ አይደለምና፤ ሌሎቹንም በዚህ ጉዳይ ለማሰማራት፤ መተዳደርያየ በጦር ጥላ ስር ነው ከማለት ወደ ገነት በጦር ጥላ ስር ነው እያለ ማስተማር ጀመረ፡፡
 
 
@@ -401,7 +414,13 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
         width={500} 
         height={300} 
       />
-      
+      https://sunnah.com/bukhari:3024
+       <Image 
+        src="/images/about/muma.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
 
  ሶ በሰይፍ ገንዘብን መስራት፤ በባህሪው በተናጥል የሚሰራ አይደለምና፤ ሌሎቹንም በዚህ ጉዳይ ለማሰማራት፤ ይህ ግለሰብ ሃይማኖትን ሽፋን በማድረግ 
  ነብሳቸውንና ንብረታቸውን እርሱ በፈጠረው ምናባዊው  ገነት ይገዛል ፤ ተስፋ ይሰጣቸዋል፡፡
