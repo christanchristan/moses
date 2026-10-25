@@ -745,7 +745,7 @@ Origen of Alexandria (Church History 6.25.4):
  </h1>
 <h1></h1>
       <Image 
-        src="/images/about/go.jpg"
+        src="/images/about/go.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -801,7 +801,7 @@ Origen of Alexandria (Church History 6.25.4):
       />
 https://ablibrary.net/book_content/b/6912/3
  <Image 
-        src="/images/about/go8.jpg"
+        src="/images/about/go8.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 

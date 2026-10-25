@@ -332,7 +332,7 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
 
 
 <Image 
-        src="/images/about/mik.jpg"
+        src="/images/about/mik.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -416,7 +416,7 @@ https://sunnah.com/urn/7494345
       />
       https://sunnah.com/bukhari:3024
        <Image 
-        src="/images/about/muma.jpg"
+        src="/images/about/muma.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -430,7 +430,7 @@ https://sunnah.com/urn/7494345
       ሶ ሙሃመድ በገነት ሱቅ አለ ማር፤ ሙዝ አለ ብሎ  ከውግያ በፊት እርሱን ታገኛላቹ በማለት ተስፋን ሰጣቸው 
       ሱረቱል ሙሃመድ ሱረቱል ቂታል ተብሎም የሚጠራ ሲሆን የወረደበት አላማ ተዋጊዎችን ላማነሳሳት እንደሆነ አልመውዱዲ ይናገራል
         <Image 
-        src="/images/about/qa11.jpg"
+        src="/images/about/qa11.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -749,14 +749,14 @@ https://sunnah.com/urn/7494345
 
 
   <Image 
-        src="/images/about/hel.jpg"
+        src="/images/about/hel.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
 
  <Image 
-        src="/images/about/vee.JPG"
+        src="/images/about/vee.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -915,14 +915,14 @@ https://sunnah.com/urn/7494345
                 
 
                   <Image 
-        src="/images/about/bo.jpg"
+        src="/images/about/bo.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
       
       <Image 
-        src="/images/about/goo2.jpg"
+        src="/images/about/goo2.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -995,7 +995,7 @@ https://sunnah.com/urn/7494345
       /> 
 
             <Image 
-        src="/images/about/bingoss.jpg"
+        src="/images/about/bingoss.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1016,13 +1016,13 @@ https://sunnah.com/urn/7494345
       he didnt say let go Gouid people and bring them to the Religion rather he said lets go to 
       invade Syria and take Their buity.
        <Image 
-        src="/images/about/you.jpg"
+        src="/images/about/you.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
      <Image 
-        src="/images/about/qo.jpg"
+        src="/images/about/qo.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1089,7 +1089,7 @@ https://sunnah.com/urn/7494345
 
 
   <Image 
-        src="/images/about/bilosffgf.JPG"
+        src="/images/about/bilosffgf.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1197,6 +1197,21 @@ https://sunnah.com/urn/7494345
         width={500} 
         height={300} 
       /> 
+
+      ሲቀጥል ሙሃመድ አደረኩ የሚለው ጨረቃን የመግመስ ታምር፤ ቁረሾች በራቸውን ከዘጉ ቡሃላ የተደረገ ታምር ነው፡፤
+       <Image 
+        src="/images/about/miro.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+      <Image 
+        src="/images/about/miro1.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+      
     
 ከቁራን ዉጪ ወደሌላ ብትሄድ የማስቆምክ እኔ ሳልሆን ኡመር ነው፤ ሃሰቡ ኪታበላህ) ብዙ ቦታ ተጠይቁዋል ፤ ሃል ኩንቱ ኢላ በሸረን ረስለን ነበረ መልሱ፡፡
 
@@ -1329,7 +1344,7 @@ https://sunnah.com/urn/7494345
 
              <h1></h1>
       <Image 
-        src="/images/about/ki3.JPG"
+        src="/images/about/ki3.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1337,14 +1352,14 @@ https://sunnah.com/urn/7494345
 
                    <h1></h1>
       <Image 
-        src="/images/about/ki4.JPG"
+        src="/images/about/ki4.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
                     <h1></h1>
       <Image 
-        src="/images/about/ki5.JPG"
+        src="/images/about/ki5.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1537,7 +1552,7 @@ God finds any one else to send in the name of the God to invade plunder, kill an
         width={500} 
         height={300} 
       /> <Image 
-        src="/images/about/goo2.jpg"
+        src="/images/about/goo2.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1545,13 +1560,13 @@ God finds any one else to send in the name of the God to invade plunder, kill an
       he didnt say let go Gouid people and bring them to the Religion rather he said lets go to 
       invade Syria and take Their buity.
        <Image 
-        src="/images/about/you.jpg"
+        src="/images/about/you.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
      <Image 
-        src="/images/about/qo.jpg"
+        src="/images/about/qo.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1974,7 +1989,7 @@ https://sunnah.com/bukhari:3617
 
     
 <Image 
-        src="/images/about/fff.png"
+        src="/images/about/fff.PNG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -2059,7 +2074,7 @@ https://sunnah.com/bukhari:3617
   <div>
       <h1></h1>
       <Image 
-        src="/images/about/c.PNG"
+        src="/images/about/c.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -2070,7 +2085,7 @@ https://sunnah.com/bukhari:3617
   <div>
       <h1></h1>
       <Image 
-        src="/images/about/c1.png"
+        src="/images/about/c1.PNG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -2079,7 +2094,7 @@ https://sunnah.com/bukhari:3617
   <div>
       <h1></h1>
       <Image 
-        src="/images/about/c2.png"
+        src="/images/about/c2.PNG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -2114,7 +2129,7 @@ https://sunnah.com/bukhari:3617
  <div>
       <h1></h1>
       <Image 
-        src="/images/about/fol.png"
+        src="/images/about/fol.PNG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -2134,7 +2149,7 @@ https://sunnah.com/bukhari:3617
   <div>
       <h1></h1>
       <Image 
-        src="/images/about/bar5.png"
+        src="/images/about/bar5.PNG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -3870,7 +3885,7 @@ how does hashim believe that you should ouner; god? Hashim believes that the way
       />
 
        <Image 
-        src="/images/about/bbc11.JPG"
+        src="/images/about/bbc11.jpg"
         alt="My Photo" 
         width={500}    
         height={300} 
