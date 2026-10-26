@@ -377,7 +377,7 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
 ታድያ ቅዱስ ጻውሎስ መጨረሻቸው ጥፋት ነው ባለን መሰረት፤የሙስሊሞች ሞዴል የሆነው የሙሃመድ  የዚህ ግለሰብ  መጨረሻ ጥፋት መሆኑን፤ የኑሮ ገንዘቤን የማገኘው በጦርነት ነው ይለናል፤
 https://sunnah.com/urn/7494345
  <Image 
-        src="/images/about/Capturesx.jpg"
+        src="/images/about/Capturesx.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -400,7 +400,7 @@ https://sunnah.com/urn/7494345
       />
         https://sunnah.com/bukhari:3024
        <Image 
-        src="/images/about/muma.jpg"
+        src="/images/about/muma.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -430,7 +430,7 @@ https://sunnah.com/urn/7494345
       ሶ ሙሃመድ በገነት ሱቅ አለ ማር፤ ሙዝ አለ ብሎ  ከውግያ በፊት እርሱን ታገኛላቹ በማለት ተስፋን ሰጣቸው 
       ሱረቱል ሙሃመድ ሱረቱል ቂታል ተብሎም የሚጠራ ሲሆን የወረደበት አላማ ተዋጊዎችን ላማነሳሳት እንደሆነ አልመውዱዲ ይናገራል
         <Image 
-        src="/images/about/qa11.JPG"
+        src="/images/about/qa11.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -995,7 +995,7 @@ https://sunnah.com/urn/7494345
       /> 
 
             <Image 
-        src="/images/about/bingoss.JPG"
+        src="/images/about/bingoss.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1684,7 +1684,7 @@ https://www.youtube.com/shorts/HxEJt6lzsXA
       /> 
       
        <Image 
-        src="/images/about/fr1.JPG"
+        src="/images/about/fr1.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1753,19 +1753,19 @@ https://www.youtube.com/shorts/HxEJt6lzsXA
         height={300} 
       /> 
          <Image 
-        src="/images/about/fkksk6.JPG"
+        src="/images/about/fkksk6.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
       <Image 
-        src="/images/about/fkksk7.JPG"
+        src="/images/about/fkksk7.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/fkksk8.JPG"
+        src="/images/about/fkksk8.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -2074,7 +2074,7 @@ https://sunnah.com/bukhari:3617
   <div>
       <h1></h1>
       <Image 
-        src="/images/about/c.png"
+        src="/images/about/c.PNG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -2085,7 +2085,7 @@ https://sunnah.com/bukhari:3617
   <div>
       <h1></h1>
       <Image 
-        src="/images/about/c1.PNG"
+        src="/images/about/c1.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -2549,7 +2549,7 @@ the read see crossing= ይህ መሻገር እስራኤልን ብቻ የፈቀ�
         height={300} 
       />
          <Image 
-        src="/images/about/c11.JPG"
+        src="/images/about/c11.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -3885,7 +3885,7 @@ how does hashim believe that you should ouner; god? Hashim believes that the way
       />
 
        <Image 
-        src="/images/about/bbc11.jpg"
+        src="/images/about/bbc11.JPG"
         alt="My Photo" 
         width={500}    
         height={300} 
