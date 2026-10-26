@@ -801,7 +801,7 @@ Origen of Alexandria (Church History 6.25.4):
       />
 https://ablibrary.net/book_content/b/6912/3
  <Image 
-        src="/images/about/go8.JPG"
+        src="/images/about/go8.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1173,13 +1173,13 @@ lost chapter
               height={300} 
             />
             <Image 
-              src="/images/about/q19.PNG"
+              src="/images/about/q19.png"
               alt="My Photo" 
               width={500} 
               height={300} 
             />
             <Image 
-              src="/images/about/q20.PNG"
+              src="/images/about/q20.png"
               alt="My Photo" 
               width={500} 
               height={300} 

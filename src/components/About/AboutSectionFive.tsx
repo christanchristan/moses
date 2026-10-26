@@ -412,7 +412,7 @@ Jihad is an obligatory duty on every Muslim , and he who tries to escape from hi
 
       <h1> </h1>
       <Image 
-        src="/images/about/15.PNG"
+        src="/images/about/15.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -422,7 +422,7 @@ Jihad is an obligatory duty on every Muslim , and he who tries to escape from hi
       
       <h1> </h1>
       <Image 
-        src="/images/about/16.PNG"
+        src="/images/about/16.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -430,7 +430,7 @@ Jihad is an obligatory duty on every Muslim , and he who tries to escape from hi
 
         <h1> </h1>
       <Image 
-        src="/images/about/17.PNG"
+        src="/images/about/17.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -502,7 +502,7 @@ Jihad is an obligatory duty on every Muslim , and he who tries to escape from hi
 
       <h1> </h1>
       <Image 
-        src="/images/about/25.PNG"
+        src="/images/about/25.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -512,7 +512,7 @@ Jihad is an obligatory duty on every Muslim , and he who tries to escape from hi
       
       <h1> </h1>
       <Image 
-        src="/images/about/26.PNG"
+        src="/images/about/26.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -537,7 +537,7 @@ Jihad is an obligatory duty on every Muslim , and he who tries to escape from hi
 
 <h1> </h1>
       <Image 
-        src="/images/about/s29.PNG"
+        src="/images/about/s29.png"
         alt="My Photo" 
         width={500} 
         height={300} 

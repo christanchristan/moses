@@ -951,13 +951,13 @@ sura 17:93
          height={300} 
        />
         <Image 
-         src="/images/about/moon1.jpg"
+         src="/images/about/moon1.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
         <Image 
-         src="/images/about/moon3.jpg"
+         src="/images/about/moon3.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 

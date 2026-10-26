@@ -53,7 +53,7 @@ const AboutSectionTwelve = () => {
               የአብ የወልድ የመንፈስቅዱስ አስተምህሮዎችን ከወንጌላችን የተወሰደ ነው ፣ ወደ 260 ጊዘ አብ የሚል አለ፤ወደ 1200 ጊዘ ወልድ ወይም 
               ኢየሱስ የሚል አለ፤ ወደ 90 ጊዜ መንፈስ ቅዱስ የሚል ስም አለ፡፡
                 <Image 
-        src="/images/about/bingo.jpg"
+        src="/images/about/bingo.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -62,7 +62,7 @@ const AboutSectionTwelve = () => {
 
          በብሉይ ኪዳን 
                     <Image 
-        src="/images/about/sonold.jpg"
+        src="/images/about/sonold.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -78,7 +78,7 @@ const AboutSectionTwelve = () => {
 
 እንደ ቃል ደግሞ በወንጌል ላይ መጽሃፈ ቀለሜንጦስን ጨምሮ 5 ቦታ ተጠቅሱዋል
          <Image 
-        src="/images/about/as.jpg"
+        src="/images/about/as.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -86,13 +86,13 @@ const AboutSectionTwelve = () => {
 
 በቁራን 3  ቦታ ኢሳ የአላህ ቃል ተብሉዋል፡
          <Image 
-        src="/images/about/sd.jpg"
+        src="/images/about/sd.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
         <Image 
-        src="/images/about/vv.jpg"
+        src="/images/about/vv.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1599,37 +1599,31 @@ Lied to
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho19.PNG"
+        src="/images/about/ho19.png"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho20.PNG"
+        src="/images/about/ho20.png"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho21.PNG"
+        src="/images/about/ho21.png"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho22.PNG"
+        src="/images/about/ho23.png"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/ho23.PNG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      /> 
-       <Image 
-        src="/images/about/ho24.PNG"
+        src="/images/about/ho24.png"
         alt="My Photo" 
         width={500} 
         height={300} 

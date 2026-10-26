@@ -76,7 +76,7 @@ const AboutSectionSix = () => {
         height={300} 
       />
         <Image 
-        src="/images/about/vpn3.jpg.JPG"
+        src="/images/about/vpn3.jpg"
           alt="My Photo" 
         width={500} 
         height={300} 

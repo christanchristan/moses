@@ -1728,7 +1728,7 @@ https://www.youtube.com/shorts/HxEJt6lzsXA
         height={300} 
       /> 
          <Image 
-        src="/images/about/fkksk2.JPG"
+        src="/images/about/fkksk2.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1934,6 +1934,18 @@ so how you chose the one sacrifice for you than the one who said to you sacrific
  ከእነርሱ እነዚያን የበደሉትን ሲቀር፡፡ በሉም 
  «በዚያ ወደኛ በተወረደው ወደናንተም በተወረደው አመንን፡፡ 
  አምላካችንም አምላካችሁም አንድ ነው፡፡ እኛም ለእርሱ ታዛዦች ነን፡፡
+ <Image 
+        src="/images/about/write.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+       <Image 
+        src="/images/about/writes.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
 
 
 
@@ -2074,7 +2086,7 @@ https://sunnah.com/bukhari:3617
   <div>
       <h1></h1>
       <Image 
-        src="/images/about/c.PNG"
+        src="/images/about/c.png"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -2085,7 +2097,7 @@ https://sunnah.com/bukhari:3617
   <div>
       <h1></h1>
       <Image 
-        src="/images/about/c1.png"
+        src="/images/about/c1.PNG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -2549,7 +2561,7 @@ the read see crossing= ይህ መሻገር እስራኤልን ብቻ የፈቀ�
         height={300} 
       />
          <Image 
-        src="/images/about/c11.jpg"
+        src="/images/about/c11.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
