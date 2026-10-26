@@ -58,28 +58,6 @@ const AboutSectionTwo = () => {
       />
 
 
- <Image  
-        src="/images/about/bilo.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-        <Image  
-        src="/images/about/vid.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-       <Image  
-        src="/images/about/mnmn.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-   
-     
-      
-
     
 
   ይህ ክፍል 5 ንኡስ ክፍል ያለዉ ሲሆን  ክርስትያኖች
