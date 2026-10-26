@@ -49,48 +49,7 @@ const AboutSectionTwo = () => {
         width={500} 
         height={300} 
       />
-        <Image 
-        src="/images/about/arebic2.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-        <Image 
-             src="/images/about/arebic3.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-        <Image 
-        src="/images/about/ar2.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-            <Image 
-        src="/images/about/vvv.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      <Image 
-        src="/images/about/vvvv.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
- <Image 
-        src="/images/about/arebic6.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-       <Image 
-        src="/images/about/arebic9.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
+       
        <Image 
         src="/images/about/areb4.JPG"
         alt="My Photo" 
@@ -98,19 +57,7 @@ const AboutSectionTwo = () => {
         height={300} 
       />
 
-<Image 
-        src="/images/about/arebic9.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      <Image  
-        src="/images/about/vbb.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      
+
  <Image  
         src="/images/about/bilo.JPG"
         alt="My Photo" 
@@ -129,19 +76,8 @@ const AboutSectionTwo = () => {
         width={500} 
         height={300} 
       />
-         <Image  
-        src="/images/about/mmu.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      
-      <Image  
-        src="/images/about/mins.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
+   
+     
       
 
     
