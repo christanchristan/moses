@@ -207,21 +207,21 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
 
            <h1></h1>
       <Image 
-        src="/images/about/sin1.jpg"
+        src="/images/about/sin1.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
             <h1></h1>
       <Image 
-        src="/images/about/sin2.jpg"
+        src="/images/about/sin2.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
            <h1></h1>
       <Image 
-        src="/images/about/sin3.jpg"
+        src="/images/about/sin3.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -229,7 +229,7 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
 
       <h1></h1>
       <Image 
-        src="/images/about/sin5.jpg"
+        src="/images/about/sin5.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -257,7 +257,7 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
 ይህ ግለሰብ ሃጥያትን መስራቱን ማመን ብቻ ሳይሆን ብሳሳት በደሉ በኔ ላይ ነው ብሉዋል፤
 
  <Image 
-         src="/images/about/sin6.jpg"
+         src="/images/about/sin6.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -270,14 +270,14 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
                   
                   
                      <Image 
-        src="/images/about/sin7.jpg"
+        src="/images/about/sin7.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />     
       
                    <Image 
-        src="/images/about/tra1.jpg"
+        src="/images/about/tra1.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -298,7 +298,7 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
         height={300} 
       /> 
                  <Image 
-        src="/images/about/tra2.jpg"
+        src="/images/about/tra2.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
