@@ -205,6 +205,37 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
                 </h3>
 
 
+           <h1></h1>
+      <Image 
+        src="/images/about/sin1.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+            <h1></h1>
+      <Image 
+        src="/images/about/sin2.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+           <h1></h1>
+      <Image 
+        src="/images/about/sin3.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      <h1></h1>
+      <Image 
+        src="/images/about/sin5.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      
+
 
 
 
@@ -223,13 +254,37 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
          height={300} 
        />
 
-ይህ ግለሰብ ሃጥያትን መስራቱን ማመን ብቻ ሳይሆን ብሳሳት በደሉ በኔ ላይ ነው ብሉዋል፤ ርሱን (ሃጥያተኛ ) አድናለው ብለክ ወንጀለኛን ስትተባበር ሌላ ሃጥያት አትጨምር
+ይህ ግለሰብ ሃጥያትን መስራቱን ማመን ብቻ ሳይሆን ብሳሳት በደሉ በኔ ላይ ነው ብሉዋል፤
+
+ <Image 
+         src="/images/about/sin6.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+ ርሱን (ሃጥያተኛ ) አድናለው ብለክ ወንጀለኛን ስትተባበር ሌላ ሃጥያት አትጨምር
 <br></br>
 ይህ
                   ግለሰብ ድርቅ ከመታው ማህበረሰብ የወጣ ድሃ  ነው፡፡ድርቅ ክፉ ነው እራሱንና ሃገሩን ከዚህ ለማዳን ብዙ ብዙ ክፉ ነገሮችን ያሳስባል፡፡የሰውንና የጅብን ስጋ እስከመብላት ያሳስባል፤ የበላይነት ሃብታም ፤ ንጉስ ፤ መሆንን ያስናፍቃል ::ሙሃመድ ከ20 አመት በእድሜ 
                   የምትበልጠውን ከዲጃን  አባቱዋን አስክሮ ማግባቱ ይሄ ማሳያ ነው፡፡ እንደ ዛሬ ነዳኝ የለም ፤ በረሃ ነው፤   ቁራን ሱራ 93፤8 ድሃ ሆኖ አገኘክ የሚል ቃል እናገኛለን 
                   
-                                       <Image 
+                  
+                     <Image 
+        src="/images/about/sin7.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />     
+      
+                   <Image 
+        src="/images/about/tra1.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />     
+      
+      
+                      <Image 
         src="/images/about/miks.jpg"
         alt="My Photo" 
         width={500} 
@@ -242,8 +297,22 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
         width={500} 
         height={300} 
       /> 
-ሙሃመድ ከላይ እንዳየነው የድርቅ ሰአት ነው፤ ማለቱ በመካ ድርቅ እንዳለ ከእስልምና ማስረጃ ሲሆን ከእስልምና ውጪ ደግሞ ድርቅ እንዳለ ፤ የሮሙ ገዚ ለካሊድ ደርቅና ራብ ከሃገራቹ እንዳወጣቹ እናውቃለን ማለቱ ፤ ድርቁ እውነተኛ ክስተት መሆኑን ያሳያል
+                 <Image 
+        src="/images/about/tra2.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />     
+ሙሃመድ ከላይ እንዳየነው የድርቅ ሰአት ነው፤ ማለቱ በመካ ድርቅ እንዳለ ከእስልምና ማስረጃ ሲሆን ከእስልምና 
+ውጪ ደግሞ ድርቅ እንዳለ ፤ የሮሙ ገዚ ለካሊድ ደርቅና ራብ ከሃገራቹ እንዳወጣቹ እናውቃለን ማለቱ ፤ ድርቁ እውነተኛ ክስተት መሆኑን ያሳያል
 
+
+<Image 
+        src="/images/about/wal.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
 
 <Image 
         src="/images/about/mik.JPG"
