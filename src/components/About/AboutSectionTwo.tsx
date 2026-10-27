@@ -512,7 +512,7 @@ https://sunnah.com/urn/7494345
        />
        
         <Image 
-         src="/images/about/ked8.JPG"
+         src="/images/about/ked8.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -899,152 +899,155 @@ https://sunnah.com/urn/7494345
       />
 
 
-ይህ ጪክት የኛም ዛሬ ለሙስሊሞች ያለኝ ጩክት ነው ፤ለምንድነው ሙሃመድ ጂሃንድን የፈለገው፤ ለምንድነው ሃያምኖቱን በሰላም መስበክ እየቻለ ለምን ደነገገ፤ ለምን እስልምና በአሊ ሰይፍ በጂሃድ ነው የቆመው እስኪባል ድረስ፤ ለምን?፤ ለምን ጂሃን የገነት በር፤ ለምንስ ሙስሊሞች ፍቃደኛ ሳይሆኑ ደነገገ፤ ለምንድነውስ ጂሃድን ጀስቲፋይ ለማድረግ መጽሃፍቅዱስን የሚጠቅሰው፤ ሙስሊሞች ላይ ሙሃመድ ፖለቲክስ ስለሰራ፤ ይህን ጠማማ አረዳድ  አቃንተው ሊረዱ ይሞክራሉ ፤ ነገር ግ ን  እውነታው ሙሃመድ ጂሃድን የፈለገው ለሃብት  እንደሆነ የሚያሳዩ 3 ማስረጆች አሉ፤ 1ኛ፤ ቁራን ሱራ 9፤29 በጂሃድ ጊዜ ሃብት ካለክ ፤ያንን ሃብት አስይዘክ በሃይማኖትክ መቀጠል ትችላለክ፤ 2  ሙሃመድ ተከታዮች አረቦችን ፤ ጂሃድ ከመጀመሩ በፊት በአንድ ቃል ከተስማማን ፤ አረብ ያልሆኑት ለናንተ  ጂዝያ ይከፍላሉ በማለት፤ 
-ሙሃመድ  በግንዘብ ያጉዋጉዋቸው ነበረ፤ 3፤  ሙሃመድን ሃብታም ካደረጉት ነገር ዉስጥ አንዱ የዘረፋ ገንዘብ እንደሆነ ይነግረናል::
+ይህ ጪክት የኛም ዛሬ ለሙስሊሞች ያለኝ ጩክት ነው ፤ለምንድነው ሙሃመድ ጂሃንድን የፈለገው፤ ለምንድነው ሃያምኖቱን በሰላም መስበክ እየቻለ ለምን ደነገገ፤ ለምን እስልምና በአሊ ሰይፍ በጂሃድ ነው የቆመው እስኪባል ድረስ፤ ለምን?፤ ለምን ጂሃን የገነት በር፤ ለምንስ ሙስሊሞች ፍቃደኛ ሳይሆኑ ደነገገ፤ ለምንድነውስ ጂሃድን ጀስቲፋይ ለማድረግ መጽሃፍቅዱስን የሚጠቅሰው፤ ሙስሊሞች ላይ ሙሃመድ ፖለቲክስ ስለሰራ፤ ይህን ጠማማ አረዳድ  አቃንተው ሊረዱ ይሞክራሉ ፤ ነገር ግ ን  እውነታው ሙሃመድ ጂሃድን የፈለገው ለሃብት  እንደሆነ የሚያሳዩ 3 ማስረጆች አሉ፤
 
+1ኛ ሙሃመድ ለሃይማኖት ነው እንዳትል፤ ሙሃመድ ተከታይ ለማግኘት ሲል ለጣኦት የሰገደ ግለሰብ ነው፡፡ <br></br>
+ 2ኛ፤ ቁራን ሱራ 9፤29 በጂሃድ ጊዜ ሃብት ካለክ ፤ያንን ሃብት አስይዘክ በሃይማኖትክ መቀጠል ትችላለክ፤ <br></br>
+ 3ኛ  ሙሃመድ ተከታዮች አረቦችን ፤ ጂሃድ ከመጀመሩ በፊት በአንድ ቃል ከተስማማን ፤ አረብ ያልሆኑት ለናንተ  ጂዝያ ይከፍላሉ በማለት፤ 
+ሙሃመድ  በግንዘብ ያጉዋጉዋቸው ነበረ፤ <br></br>
+3፤  ሙሃመድን ሃብታም ካደረጉት ነገር ዉስጥ አንዱ የዘረፋ ገንዘብ እንደሆነ ይነግረናል::
+<br></br>
 4ኛ ሙሃመድ ለአንድ ሰው እገታ እንዳቅሙ ከ1000 እስከ 4000 ዲናር ይጠይቅ ነበረ፤ 
-
- <Image 
-        src="/images/about/ked30.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
- <Image 
-        src="/images/about/ked31.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-<Image 
-        src="/images/about/ked32.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      <Image 
-        src="/images/about/ked33.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      <Image 
-        src="/images/about/ked34.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      <Image 
-        src="/images/about/ked35.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      <Image 
-        src="/images/about/ked36.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      <Image 
-        src="/images/about/ked37.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      <Image 
-        src="/images/about/ked38.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-
-      <Image 
-        src="/images/about/ked39.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      <Image 
-        src="/images/about/ked40.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      <Image 
-        src="/images/about/ked41.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      <Image 
-        src="/images/about/ked42.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-
-
-      <Image 
-        src="/images/about/ked43.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-
-      <Image 
-        src="/images/about/ked44.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-
-      <Image 
-        src="/images/about/ked45.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      <Image 
-        src="/images/about/ked46.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-
-<Image 
-        src="/images/about/ked47.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      <Image 
-        src="/images/about/ked48.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      <Image 
-        src="/images/about/ked49.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
-      <Image 
-        src="/images/about/ked50.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
+<br></br>
 ብዙ ጊዜ  ብዙዎች  የሙሃመድ ጂሃድ የፈጣሪ እርዳታ ያለበት ይመስላቸዋለ፤ ነገር ግ ን ፈጣሪ ፤የባልንጀራህን ገንዘብ አትመኝ የሚለውን፤ ህግ የደነገገ ጌታ፤
 አንድ ወንበዴ ዘራፊን አይተባበርም እና ሙሃመድ ይሄን ሲያደርግ ብዙ ነገሮች ደርሶበታል፤ በበድር የቁረሽ ህዝቦችን ስለገደሉ፤ የሚከተለው፤የበቀል ቅጣት ደርሶባቸዋል፡፡
+የቁረሽ ህዝቦች በበድር ስለሞተባቸው፤ ሰዎች ፤ እንባቸውን አላነቡም ነበረ፤ አብዛኛው በበድር ዘመቻ ገዳዩ፤ ስለሆነ ፤ ታርጌት አድርገውታል፤
+በመጨረሻም በጦርነቱ ሰአት ፤ ልቡን አውጥተውታል፤ ሙሃመድን ተንበጭብጮ ሙሃመድ አለ ሲባል ፤ ዝም እስኪል ድረስ አድርገውታል፤ 
 
 
 
+ <Image 
+        src="/images/about/ked30.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+ <Image 
+        src="/images/about/ked31.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+<Image 
+        src="/images/about/ked32.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked33.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked34.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked35.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked36.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked37.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked38.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      <Image 
+        src="/images/about/ked39.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked40.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked41.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked42.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
 
 
+      <Image 
+        src="/images/about/ked43.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
 
+      <Image 
+        src="/images/about/ked44.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
 
+      <Image 
+        src="/images/about/ked45.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked46.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+<Image 
+        src="/images/about/ked47.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked48.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked49.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked50.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
 
 
 
@@ -1251,7 +1254,7 @@ https://sunnah.com/urn/7494345
         height={300} 
       />
         <Image 
-        src="/images/about/ked25.jpg" 
+        src="/images/about/ked25.JPG" 
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1488,7 +1491,7 @@ https://sunnah.com/urn/7494345
 
 
  <Image 
-        src="/images/about/ked21.jpg"
+        src="/images/about/ked21.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1499,7 +1502,7 @@ https://sunnah.com/urn/7494345
       ሲቀጥል ሙሃመድ አደረኩ የሚለው ጨረቃን የመግመስ ታምር፤ ቁረሾች በራቸውን ከዘጉ ቡሃላ የተደረገ ታምር ነው፡፤
 
   <Image 
-        src="/images/about/ked22.jpg"
+        src="/images/about/ked22.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -1664,19 +1667,19 @@ https://sunnah.com/urn/7494345
 ምናልባት የአሊ ድርሻ ምን ቢሆን ነው ልትሉ ትችላላቹ 
 
   <Image 
-        src="/images/about/ked26.JPG"
+        src="/images/about/ked26.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
       <Image 
-        src="/images/about/ked27.JPG"
+        src="/images/about/ked27.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
       <Image 
-        src="/images/about/ked28.JPG"
+        src="/images/about/ked28.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -2065,19 +2068,19 @@ https://www.youtube.com/shorts/HxEJt6lzsXA
         height={300} 
       /> 
          <Image 
-        src="/images/about/fkksk6.jpg"
+        src="/images/about/fkksk6.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
       <Image 
-        src="/images/about/fkksk7.jpg"
+        src="/images/about/fkksk7.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
        <Image 
-        src="/images/about/fkksk8.jpg"
+        src="/images/about/fkksk8.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
