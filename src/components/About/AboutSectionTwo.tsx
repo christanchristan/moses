@@ -267,7 +267,7 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
 ይህ
                   ግለሰብ ድርቅ ከመታው ማህበረሰብ የወጣ ድሃ  ነው፡፡ድርቅ ክፉ ነው እራሱንና ሃገሩን ከዚህ ለማዳን ብዙ ብዙ ክፉ ነገሮችን ያሳስባል፡፡
                    <Image 
-        src="/images/about/ked3.jpg"
+        src="/images/about/ked3.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -279,13 +279,13 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
 
                   <br></br> https://hadithunlocked.com/ahmad:2849
                                 <Image 
-        src="/images/about/ked.jpg"
+        src="/images/about/ked.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />  
           <Image 
-        src="/images/about/ked1.jpg"
+        src="/images/about/ked1.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -447,7 +447,7 @@ https://sunnah.com/urn/7494345
         height={300} 
       />
         <Image 
-        src="/images/about/ked4.jpg"
+        src="/images/about/ked4.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -460,7 +460,7 @@ https://sunnah.com/urn/7494345
         height={300} 
       />
         <Image 
-        src="/images/about/ked5.jpg"
+        src="/images/about/ked5.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -485,7 +485,7 @@ https://sunnah.com/urn/7494345
        />
        
         <Image 
-         src="/images/about/ked6.jpg"
+         src="/images/about/ked6.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -497,7 +497,7 @@ https://sunnah.com/urn/7494345
          height={300} 
        />
  <Image 
-         src="/images/about/ked7.jpg"
+         src="/images/about/ked7.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -512,7 +512,7 @@ https://sunnah.com/urn/7494345
        />
        
         <Image 
-         src="/images/about/ked8.jpg"
+         src="/images/about/ked8.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -535,7 +535,7 @@ https://sunnah.com/urn/7494345
         height={300} 
       />
        <Image 
-        src="/images/about/ked9.jpg"
+        src="/images/about/ked9.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -549,7 +549,7 @@ https://sunnah.com/urn/7494345
         height={300} 
       />
        <Image 
-        src="/images/about/ked11.jpg"
+        src="/images/about/ked11.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -563,7 +563,7 @@ https://sunnah.com/urn/7494345
       />
       
          <Image 
-        src="/images/about/ked12.jpg"
+        src="/images/about/ked12.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -582,7 +582,7 @@ https://sunnah.com/urn/7494345
         height={300} 
       /> 
        <Image 
-        src="/images/about/ked13.jpg"
+        src="/images/about/ked13.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -625,7 +625,7 @@ https://sunnah.com/urn/7494345
         height={300} 
       /> 
          <Image 
-        src="/images/about/ked14.jpg"
+        src="/images/about/ked14.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -649,7 +649,7 @@ https://sunnah.com/urn/7494345
       />
 
       <Image 
-        src="/images/about/ked15.jpg"
+        src="/images/about/ked15.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -673,7 +673,7 @@ https://sunnah.com/urn/7494345
 
       
 <Image 
-        src="/images/about/ked16.jpg"
+        src="/images/about/ked16.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -720,7 +720,7 @@ https://sunnah.com/urn/7494345
         height={300} 
       />
        <Image 
-        src="/images/about/ked17.jpg"
+        src="/images/about/ked17.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -759,7 +759,7 @@ https://sunnah.com/urn/7494345
         height={300} 
       />
        <Image 
-        src="/images/about/ked18.jpg"
+        src="/images/about/ked18.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -892,13 +892,165 @@ https://sunnah.com/urn/7494345
         height={300} 
       /> 
        <Image 
-        src="/images/about/ked19.jpg"
+        src="/images/about/ked19.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
+
+
 ይህ ጪክት የኛም ዛሬ ለሙስሊሞች ያለኝ ጩክት ነው ፤ለምንድነው ሙሃመድ ጂሃንድን የፈለገው፤ ለምንድነው ሃያምኖቱን በሰላም መስበክ እየቻለ ለምን ደነገገ፤ ለምን እስልምና በአሊ ሰይፍ በጂሃድ ነው የቆመው እስኪባል ድረስ፤ ለምን?፤ ለምን ጂሃን የገነት በር፤ ለምንስ ሙስሊሞች ፍቃደኛ ሳይሆኑ ደነገገ፤ ለምንድነውስ ጂሃድን ጀስቲፋይ ለማድረግ መጽሃፍቅዱስን የሚጠቅሰው፤ ሙስሊሞች ላይ ሙሃመድ ፖለቲክስ ስለሰራ፤ ይህን ጠማማ አረዳድ  አቃንተው ሊረዱ ይሞክራሉ ፤ ነገር ግ ን  እውነታው ሙሃመድ ጂሃድን የፈለገው ለሃብት  እንደሆነ የሚያሳዩ 3 ማስረጆች አሉ፤ 1ኛ፤ ቁራን ሱራ 9፤29 በጂሃድ ጊዜ ሃብት ካለክ ፤ያንን ሃብት አስይዘክ በሃይማኖትክ መቀጠል ትችላለክ፤ 2  ሙሃመድ ተከታዮች አረቦችን ፤ ጂሃድ ከመጀመሩ በፊት በአንድ ቃል ከተስማማን ፤ አረብ ያልሆኑት ለናንተ  ጂዝያ ይከፍላሉ በማለት፤ 
-ሙሃመድ  በግንዘብ ያጉዋጉዋቸው ነበረ፤ 3፤  ሙሃመድን ሃብታም ካደረጉት ነገር ዉስጥ አንዱ የዘረፋ ገንዘብ እንደሆነ ይነግረናል
+ሙሃመድ  በግንዘብ ያጉዋጉዋቸው ነበረ፤ 3፤  ሙሃመድን ሃብታም ካደረጉት ነገር ዉስጥ አንዱ የዘረፋ ገንዘብ እንደሆነ ይነግረናል::
+
+4ኛ ሙሃመድ ለአንድ ሰው እገታ እንዳቅሙ ከ1000 እስከ 4000 ዲናር ይጠይቅ ነበረ፤ 
+
+ <Image 
+        src="/images/about/ked30.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+ <Image 
+        src="/images/about/ked31.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+<Image 
+        src="/images/about/ked32.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked33.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked34.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked35.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked36.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked37.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked38.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      <Image 
+        src="/images/about/ked39.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked40.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked41.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked42.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+
+      <Image 
+        src="/images/about/ked43.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      <Image 
+        src="/images/about/ked44.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      <Image 
+        src="/images/about/ked45.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked46.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+<Image 
+        src="/images/about/ked47.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked48.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked49.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked50.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+ብዙ ጊዜ  ብዙዎች  የሙሃመድ ጂሃድ የፈጣሪ እርዳታ ያለበት ይመስላቸዋለ፤ ነገር ግ ን ፈጣሪ ፤የባልንጀራህን ገንዘብ አትመኝ የሚለውን፤ ህግ የደነገገ ጌታ፤
+አንድ ወንበዴ ዘራፊን አይተባበርም እና ሙሃመድ ይሄን ሲያደርግ ብዙ ነገሮች ደርሶበታል፤ በበድር የቁረሽ ህዝቦችን ስለገደሉ፤ የሚከተለው፤የበቀል ቅጣት ደርሶባቸዋል፡፡
+
+
+
+
+
+
+
+
+
+
+
+
+
 
          <Image 
         src="/images/about/fkksk1.jpg"
@@ -976,7 +1128,7 @@ https://sunnah.com/urn/7494345
         height={300} 
       />
        <Image 
-        src="/images/about/ked20.jpg"
+        src="/images/about/ked20.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
