@@ -1951,6 +1951,19 @@ This is an ascension after death, not a substitute event.
                   C. Pliny the Younger (Roman governor, ~112 AD)
                   Work: Letter to Emperor Trajan
 
+  ይህ ከታች ያለው ፕሊኒ የተናገረው ስለ ክርስቶስ አምላክነት ነው  በእስልምና መጽሃፍት ላይ የሰፈረ መጽሃፍ ነው፡፡
+       <Image 
+        src="/images/about/miro.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+      <Image 
+        src="/images/about/miro1.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
                   “They (Christians) sing hymns to Christ as to a god…”
                   <br></br><br></br>
                   D. Lucian of Samosata (Greek satirist, ~160 AD)

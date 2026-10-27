@@ -262,11 +262,39 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
          width={500} 
          height={300} 
        />
- ርሱን (ሃጥያተኛ ) አድናለው ብለክ ወንጀለኛን ስትተባበር ሌላ ሃጥያት አትጨምር
+ መልክቴ የርሱን (ሃጥያተኛ ) አድናለው ብለክ ወንጀለኛን ስትተባበር ሌላ ሃጥያት አትጨምር
 <br></br>
 ይህ
-                  ግለሰብ ድርቅ ከመታው ማህበረሰብ የወጣ ድሃ  ነው፡፡ድርቅ ክፉ ነው እራሱንና ሃገሩን ከዚህ ለማዳን ብዙ ብዙ ክፉ ነገሮችን ያሳስባል፡፡የሰውንና የጅብን ስጋ እስከመብላት ያሳስባል፤ የበላይነት ሃብታም ፤ ንጉስ ፤ መሆንን ያስናፍቃል ::ሙሃመድ ከ20 አመት በእድሜ 
-                  የምትበልጠውን ከዲጃን  አባቱዋን አስክሮ ማግባቱ ይሄ ማሳያ ነው፡፡ እንደ ዛሬ ነዳኝ የለም ፤ በረሃ ነው፤   ቁራን ሱራ 93፤8 ድሃ ሆኖ አገኘክ የሚል ቃል እናገኛለን 
+                  ግለሰብ ድርቅ ከመታው ማህበረሰብ የወጣ ድሃ  ነው፡፡ድርቅ ክፉ ነው እራሱንና ሃገሩን ከዚህ ለማዳን ብዙ ብዙ ክፉ ነገሮችን ያሳስባል፡፡
+                   <Image 
+        src="/images/about/ked3.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+
+                  የሰውንና የጅብን ስጋ እስከመብላት ያሳስባል፤ የበላይነት ሃብታም ፤ ንጉስ ፤ መሆንን ያስናፍቃል ::
+                  ሙሃመድ ከ20 አመት በእድሜ 
+                  የምትበልጠውን ከዲጃን  አባቱዋን አስክሮ ማግባቱ ይሄ ማሳያ ነው፡፡
+
+                  <br></br> https://hadithunlocked.com/ahmad:2849
+                                <Image 
+        src="/images/about/ked.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />  
+          <Image 
+        src="/images/about/ked1.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+
+       
+      
+               
+                   እንደ ዛሬ ነዳኝ የለም ፤ በረሃ ነው፤   ቁራን ሱራ 93፤8 ድሃ ሆኖ አገኘክ የሚል ቃል እናገኛለን 
                   
                   
                      <Image 
@@ -418,18 +446,35 @@ https://sunnah.com/urn/7494345
         width={500} 
         height={300} 
       />
+        <Image 
+        src="/images/about/ked4.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      
           <Image 
         src="/images/about/qa9.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
+        <Image 
+        src="/images/about/ked5.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+
+      
 
 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                             
                   🔹ሶ በሰይፍ ገንዘብን መስራት፤ በባህሪው በተናጥል የሚሰራ አይደለምና፤ ሌሎቹንም በዚህ ጉዳይ ለማሰማራት፤ ይህ ግለሰብ ሃይማኖትን ሽፋን በማድረግ 
                   በስጋው ሙሃመድን ሃብታም የሚያደርገውን  ጂሃድ ፤ ምርጥ ንግድ ነው፤ጂሃድ ለፈጽሞ የማይከሰርበት ንግድ ነው፤ የገነት በር ነው፤ ለፈጣሪ ፤ ነብሳቹን የምትሸጡበት ነው፤ በማለት  ከሸቀጣሸቀጥ ንግድ ወደ  የአማኞችን ነብስ ወደመሽጥ የጂሃድ  ንግድ የዞረ ነው፡፡ምክኛቱም በጂሃድ በምድር ገድለክ በሰማይ ስለሚከፈልክ ነው፤ታድያ ጂሃድን ሙሃመድ ከሲኦል የሚያድን ንግድ ይለዋል
                 </h3>
+
 
 
  <Image 
@@ -439,17 +484,35 @@ https://sunnah.com/urn/7494345
          height={300} 
        />
        
+        <Image 
+         src="/images/about/ked6.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
  <Image 
          src="/images/about/bbccc.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
-
+ <Image 
+         src="/images/about/ked7.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
 
        
  <Image 
          src="/images/about/mikos.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+       
+        <Image 
+         src="/images/about/ked8.jpg"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -471,10 +534,22 @@ https://sunnah.com/urn/7494345
         width={500} 
         height={300} 
       />
+       <Image 
+        src="/images/about/ked9.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
 
       የገነት ብቸኛው መግብያና ቁልፍ ጂሃድ ብቻ አድርጎ ያቀርብ ነበረ
        <Image 
         src="/images/about/fkin.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+       <Image 
+        src="/images/about/ked11.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -486,6 +561,14 @@ https://sunnah.com/urn/7494345
         width={500} 
         height={300} 
       />
+      
+         <Image 
+        src="/images/about/ked12.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      
 
       
         
@@ -498,6 +581,13 @@ https://sunnah.com/urn/7494345
         width={500} 
         height={300} 
       /> 
+       <Image 
+        src="/images/about/ked13.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+      
       
        
       <Image 
@@ -534,6 +624,13 @@ https://sunnah.com/urn/7494345
         width={500} 
         height={300} 
       /> 
+         <Image 
+        src="/images/about/ked14.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+      
 
 
 
@@ -550,6 +647,13 @@ https://sunnah.com/urn/7494345
         width={500} 
         height={300} 
       />
+
+      <Image 
+        src="/images/about/ked15.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
 ለምን ምንድነው የቁረሽ ህዝቦችን እዚህ ውሳኔ ላይ ያደረሳቸው ስንል፤ ፤በግልጽ የቁረሽ ህዝቦችን እኔ በምለው ከተስማማቹ አረብ 
 ያልሆኑት ለናንተ ጂዝያ ይከፍላሉ ይላቸው ነበረ፤ ጂዝያ ማለት ከመገደል የምታቀርበው ካሳ ነው፡፡ሃብታምም የሚያደርግ ነው (ቁራን ሱራ 93፤8)ሙሃመድ አረብ ያልሆኑት ህዝቦች ላይ ሞት ያወጀ ነው፡፡
 ሙሃመድ እራሱ የተከታይ ጥማት እንዳለበት በአንደበቱ 10 አይሁዳዊ ቢያምነኝ ፤ ሙሉ አይሁድ ያምነኝ ነበረ ይላል
@@ -562,6 +666,14 @@ https://sunnah.com/urn/7494345
 
 <Image 
         src="/images/about/vvvr.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      
+<Image 
+        src="/images/about/ked16.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
@@ -607,6 +719,14 @@ https://sunnah.com/urn/7494345
         width={500} 
         height={300} 
       />
+       <Image 
+        src="/images/about/ked17.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      
       <Image 
         src="/images/about/bilosff.jpg"
         alt="My Photo" 
@@ -638,6 +758,13 @@ https://sunnah.com/urn/7494345
         width={500} 
         height={300} 
       />
+       <Image 
+        src="/images/about/ked18.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      
 
 ይህ ግለሰብ  ብቻውን በጦር በሰይፍ ገንዘብ መስራት አይችልም ስለዚ ይህን ለማሳካት፤ የሰው ልጆችን ነበስና ገንዘብ ለመሻሸጥ በምናቡ ገነት ዉስጥ ሱቅ ከፍቱዋል፤ 
 
@@ -764,6 +891,15 @@ https://sunnah.com/urn/7494345
         width={500} 
         height={300} 
       /> 
+       <Image 
+        src="/images/about/ked19.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+ይህ ጪክት የኛም ዛሬ ለሙስሊሞች ያለኝ ጩክት ነው ፤ለምንድነው ሙሃመድ ጂሃንድን የፈለገው፤ ለምንድነው ሃያምኖቱን በሰላም መስበክ እየቻለ ለምን ደነገገ፤ ለምን እስልምና በአሊ ሰይፍ በጂሃድ ነው የቆመው እስኪባል ድረስ፤ ለምን?፤ ለምን ጂሃን የገነት በር፤ ለምንስ ሙስሊሞች ፍቃደኛ ሳይሆኑ ደነገገ፤ ለምንድነውስ ጂሃድን ጀስቲፋይ ለማድረግ መጽሃፍቅዱስን የሚጠቅሰው፤ ሙስሊሞች ላይ ሙሃመድ ፖለቲክስ ስለሰራ፤ ይህን ጠማማ አረዳድ  አቃንተው ሊረዱ ይሞክራሉ ፤ ነገር ግ ን  እውነታው ሙሃመድ ጂሃድን የፈለገው ለሃብት  እንደሆነ የሚያሳዩ 3 ማስረጆች አሉ፤ 1ኛ፤ ቁራን ሱራ 9፤29 በጂሃድ ጊዜ ሃብት ካለክ ፤ያንን ሃብት አስይዘክ በሃይማኖትክ መቀጠል ትችላለክ፤ 2  ሙሃመድ ተከታዮች አረቦችን ፤ ጂሃድ ከመጀመሩ በፊት በአንድ ቃል ከተስማማን ፤ አረብ ያልሆኑት ለናንተ  ጂዝያ ይከፍላሉ በማለት፤ 
+ሙሃመድ  በግንዘብ ያጉዋጉዋቸው ነበረ፤ 3፤  ሙሃመድን ሃብታም ካደረጉት ነገር ዉስጥ አንዱ የዘረፋ ገንዘብ እንደሆነ ይነግረናል
+
          <Image 
         src="/images/about/fkksk1.jpg"
         alt="My Photo" 
@@ -839,6 +975,13 @@ https://sunnah.com/urn/7494345
         width={500} 
         height={300} 
       />
+       <Image 
+        src="/images/about/ked20.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      
 
        <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                             
@@ -955,6 +1098,13 @@ https://sunnah.com/urn/7494345
         width={500} 
         height={300} 
       />
+        <Image 
+        src="/images/about/ked25.jpg" 
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      
 
 እ
      
@@ -1062,6 +1212,8 @@ https://sunnah.com/urn/7494345
         height={300} 
       />
 
+
+
              <h1></h1>
       <Image 
         src="/images/about/ki2.jpg"
@@ -1069,6 +1221,7 @@ https://sunnah.com/urn/7494345
         width={500} 
         height={300} 
       />
+      ብዙ ሰዎች የአሊ ሰይፍ ምን አድርጎ ነው ሊሉ ይችላሉ፤ የአሊ ሰይፍ ያልተሳተፈበጥ ጦርነት የለም ማለት ይቻላል፡፡
 
 
   <Image 
@@ -1181,19 +1334,26 @@ https://sunnah.com/urn/7494345
         height={300} 
       /> 
 
+
+ <Image 
+        src="/images/about/ked21.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+
+
+     
       ሲቀጥል ሙሃመድ አደረኩ የሚለው ጨረቃን የመግመስ ታምር፤ ቁረሾች በራቸውን ከዘጉ ቡሃላ የተደረገ ታምር ነው፡፤
-       <Image 
-        src="/images/about/miro.jpg"
+
+  <Image 
+        src="/images/about/ked22.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
-      <Image 
-        src="/images/about/miro1.jpg"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      /> 
+
+    
       
     
 ከቁራን ዉጪ ወደሌላ ብትሄድ የማስቆምክ እኔ ሳልሆን ኡመር ነው፤ ሃሰቡ ኪታበላህ) ብዙ ቦታ ተጠይቁዋል ፤ ሃል ኩንቱ ኢላ በሸረን ረስለን ነበረ መልሱ፡፡
@@ -1349,9 +1509,26 @@ https://sunnah.com/urn/7494345
       />
 
 
+ምናልባት የአሊ ድርሻ ምን ቢሆን ነው ልትሉ ትችላላቹ 
 
-
-
+  <Image 
+        src="/images/about/ked26.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked27.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/ked28.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
 
 
                 እንደሚወር
@@ -1826,6 +2003,20 @@ so how you chose the one sacrifice for you than the one who said to you sacrific
                   መጽኃፍት ብቻ አይደሉት ፤ የታሪክ ጸኃፍት ሳይቀሩ ክርስትና ላይ የደረሰዉን፤ መከራና ስቃይ ይናገራል
                   :: in the letter of Pliniy the younger: Book 10:96 I do not know ,what is the usual proceedurefor pushing or investigating them accordingly: I have followed the method usually adabted in such case: which is to question the accused , if they admit: to being christians ,  I repeated the question twice,and if they persisted , I ordered them to be excuted.
                   በሮረም ላይ የደረሰዉ መከራ ቀላል የማይባል ነበረ፡፡ ቫላንታይን በ እስታድየም ዉስጥ ከአንበሳ ጋር  ያታጋሉት፤ እዚዉ ሮም ዉስጥ ነበረ፤  ለዚህ ነዉ ቅዱስ ያሬድ በዜማዉ፤ በህሊናዉ ወደ ሮም ተጉዞ፤ በእሳት ዉስጥ የምታበራን እነቁ ቤተክርስትያንን ተመለከት፤
+               
+                 ይህ ከታች ያለው ፕሊኒ የተናገረው ስለ ክርስቶስ አምላክነት ነው  በእስልምና መጽሃፍት ላይ የሰፈረ መጽሃፍ ነው፡፡
+       <Image 
+        src="/images/about/miro.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+      <Image 
+        src="/images/about/miro1.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
                   ወሬድየ ብሄረ ፤ሮሜ ፤ 
                   ርኢክዋ ፤ አይመርክዋ ፤አፍቀርክዋ ለቤተክርስትያን፤ ቤተ ክርስትያንን አየዋት አወኩዋት  ወደድኩዋት እያለ ዘመረ
 
@@ -1924,7 +2115,7 @@ so how you chose the one sacrifice for you than the one who said to you sacrific
         height={300} 
       /> 
        <Image 
-        src="/images/about/writes.jpg"
+        src="/images/about/writes.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
