@@ -36,7 +36,8 @@ const AboutSectionTwo = () => {
             <div className="max-w-[470px]">
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Dont forget this Apologetics means defending the faith that christ defend
+                  Dont forget this Apologetics means defending the faith that christ defend ፣ እስልምናን ተምረክና አውቀክ ፤
+                  መጨረሻ ላይ የምትደርሰው ድምዳሜ እስልምና ማለት ሙሃመድ ሃብትን ገንዘብንና ፤ ስልጣንን ለማግኘት ሲል፤ በምናቡ የፈጠረው ገነት ውስጥ ፤ ለመግባት ፤ ሙስሊሞች የሚያደርጉት እንቅስቃሴ ነው፡፡
                   
                   🔹 ክፍል 1- እስልማናን ከክርስትና አንጻር ና የክርስትና ትርጉም
                 </h3>
