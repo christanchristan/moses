@@ -513,7 +513,7 @@ https://sunnah.com/urn/7494345
        />
        
         <Image 
-         src="/images/about/ked8.jpg"
+         src="/images/about/ked8.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -522,34 +522,34 @@ https://sunnah.com/urn/7494345
 
 በገነት ሰባ ቀለም ያለው ምግብ
        <Image 
-         src="/images/about/bbcd.jpg"
+         src="/images/about/bbcd.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
 
   <Image 
-         src="/images/about/ccc.jpg"
+         src="/images/about/ccc.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
         <Image 
-         src="/images/about/ccc1.jpg"
+         src="/images/about/ccc1.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
 
          <Image 
-         src="/images/about/bbcccc.jpg"
+         src="/images/about/bbcccc.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
 
          <Image 
-         src="/images/about/ccc2.jpg"
+         src="/images/about/ccc2.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -557,26 +557,26 @@ https://sunnah.com/urn/7494345
 
        
          <Image 
-         src="/images/about/bcc2.jpg"
+         src="/images/about/bcc2.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
          <Image 
-         src="/images/about/minis.jpg"
+         src="/images/about/minis.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
            <Image 
-         src="/images/about/bbt.jpg"
+         src="/images/about/bbt.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
 
         <Image 
-         src="/images/about/vvi.jpg"
+         src="/images/about/vvi.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -585,45 +585,45 @@ https://sunnah.com/urn/7494345
 
        ስሜቱዋ እንደ ግመል ነው 
         <Image 
-         src="/images/about/vvbs.jpg"
+         src="/images/about/vvbs.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
 
          <Image 
-         src="/images/about/bbkk.jpg"
+         src="/images/about/bbkk.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
         <Image 
-         src="/images/about/cccc.jpg"
+         src="/images/about/cccc.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
         <Image 
-         src="/images/about/bbk.jpg"
+         src="/images/about/bbk.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
         <Image 
-         src="/images/about/bnnn.jpg"
+         src="/images/about/bnnn.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
   <Image 
-         src="/images/about/bbkkk.jpg"
+         src="/images/about/bbkkk.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
 
   <Image 
-         src="/images/about/bbkkki.jpg"
+         src="/images/about/bbkkki.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
@@ -632,19 +632,19 @@ https://sunnah.com/urn/7494345
 
 ልጁ በገነት ስፐርም በስፐርም ይሆናል ፤ ከዚያም ሲነሳ፤ድንግል ሆና ትጠብቀዋለች፤
  <Image 
-         src="/images/about/bbccck.jpg"
+         src="/images/about/bbccck.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
        <Image 
-         src="/images/about/bcccckkkk.jpg"
+         src="/images/about/bcccckkkk.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
        />
         <Image 
-         src="/images/about/bbkkkd.jpg"
+         src="/images/about/bbkkkd.JPG"
          alt="My Photo" 
          width={500} 
          height={300} 
