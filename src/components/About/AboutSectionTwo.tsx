@@ -519,12 +519,180 @@ https://sunnah.com/urn/7494345
        />
 
 
-       ሶ በሱረቱል ሙሃመድ ጨምሮ  በአረብ በረሃ ባከባቢው የሌሉትን ነገሮች እየጠቀሰ በገነት ይሄ አለ እያለ ገነትን ለነሱ ማጉዋጉዋት ቀጠለ <Image 
+በገነት ሰባ ቀለም ያለው ምግብ
+       <Image 
+         src="/images/about/bbcd.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+
+  <Image 
+         src="/images/about/ccc.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+        <Image 
+         src="/images/about/ccc1.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+
+         <Image 
+         src="/images/about/bbcccc.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+
+         <Image 
+         src="/images/about/ccc2.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+
+       
+         <Image 
+         src="/images/about/bcc2.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+         <Image 
+         src="/images/about/minis.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+           <Image 
+         src="/images/about/bbt.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+
+        <Image 
+         src="/images/about/vvi.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+
+
+       ስሜቱዋ እንደ ግመል ነው 
+        <Image 
+         src="/images/about/vvbs.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+
+         <Image 
+         src="/images/about/bbkk.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+        <Image 
+         src="/images/about/cccc.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+        <Image 
+         src="/images/about/bbk.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+        <Image 
+         src="/images/about/bnnn.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+  <Image 
+         src="/images/about/bbkkk.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+
+  <Image 
+         src="/images/about/bbkkki.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+
+
+ልጁ በገነት ስፐርም በስፐርም ይሆናል ፤ ከዚያም ሲነሳ፤ድንግል ሆና ትጠብቀዋለች፤
+ <Image 
+         src="/images/about/bbccck.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+       <Image 
+         src="/images/about/bcccckkkk.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+        <Image 
+         src="/images/about/bbkkkd.jpg"
+         alt="My Photo" 
+         width={500} 
+         height={300} 
+       />
+
+      
+
+ሙስሊሎች እንድታስተውሉ የፈለኩት ፤ what is the intention behind this (to invite you to jihad)
+
+      
+
+
+  
+       ሶ በሱረቱል ሙሃመድ ጨምሮ  በአረብ በረሃ ባከባቢው የሌሉትን ነገሮች ለምሳሌ ሰዎች ድንግልናን በመጣስ ይጠመዳሉ የሚሉትን
+        እየጠቀሰ በገነት ይሄ አለ እያለ ገነትን ለነሱ ማጉዋጉዋት ቀጠለ
+
+       
+        <Image 
         src="/images/about/hel.JPG"
         alt="My Photo" 
         width={500} 
         height={300} 
       />
+
+
+   <Image 
+        src="/images/about/dddd.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      
+   <Image 
+        src="/images/about/ddd1.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      
+   <Image 
+        src="/images/about/dddd2.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      
+
 
 
       እዚህ ዉስጥ ለመግባት ግን መግብያ በር አለዉ በሩ ደግሞ ጂሃድ ነው  እያለ ፤ ወደ እሳት ይጨምራቸው ነበረ
@@ -575,12 +743,18 @@ https://sunnah.com/urn/7494345
 
       
        
+
+       እዚጋር  በገነት ውስጥ የሚያጉዋጉዋው ነገርን ሙሃመድ ሲናገር  ፈጣሪን ማየት  ወይም ከርሱ ጋር መኖር አይደለም ይልቁንም
+       መኖርያ፤ ምግብና መጠጥ ናቸው ፤ሶ ሙሃመድ አሪፍ መኖርያ፤ ምግብና ፤መጠጥ አለ እያለ እያጉዋኡዋቸው ነው፡፡
       <Image 
         src="/images/about/fkksk9.png"
         alt="My Photo" 
         width={500} 
         height={300} 
       /> 
+
+
+
        <Image 
         src="/images/about/ked13.JPG"
         alt="My Photo" 
@@ -867,6 +1041,14 @@ https://sunnah.com/urn/7494345
 
  <Image 
         src="/images/about/vee.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      
+ <Image 
+        src="/images/about/mib.jpg"
         alt="My Photo" 
         width={500} 
         height={300} 
