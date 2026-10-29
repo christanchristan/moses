@@ -290,7 +290,12 @@ const AboutSectionFour = () => {
    የኢሳን አምላክነት፤ካላህና ከመሲው ዉጪ መነኮሶቻቸውን ያዙ እያለ፤ የኢሳን ፈጣሪነት፤ ፤ ኢሳ የአላህ ቃልና የአላ መንፈስ ነው፡እያለ ያስተምር ነበረ ከዚያን ሃይል ሲያገኝና እነዚህ እረዳቶቹ እነ ወረቃ ቡሃይራ፤
     ከዲጃ ሲሞቱና ሃይል  ሲያገኝና ከፐርሺያዊዉ ሰልማን ጋር ሲገጥም  እስልምናን መሰረተ፤ ከዚያ በፊት ግን እኛ ክርስትያኖች ለሙስሊሞች ከሃዲዎች እንዳልነበርን፡፡
 
-
+  <Image 
+                    src="/images/about/fkksk11.jpg"
+                    alt="My Photo" 
+                    width={500} 
+                    height={300} 
+                  /> 
     <Image 
         src="/images/about/dis.jpg"
         alt="My Photo" 
@@ -496,7 +501,15 @@ const AboutSectionFour = () => {
                 </h3>
                
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                 
+
+
+              <Image 
+                    src="/images/about/fkksk11.jpg"
+                    alt="My Photo" 
+                    width={500} 
+                    height={300} 
+                  /> 
+
 ሙሃመድ በሰላም ጦር ሳያነሳ  ለ12 አመት  ባስተማረባት  ለ12 አመታት
  ወረደልኝ በሚለዉ
 ቁራን ኣንድም ቦታ አስልምና የሚል ቃል የለም:: ምክንያቱም ፤
