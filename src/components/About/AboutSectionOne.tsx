@@ -2,6 +2,8 @@
 import { useState } from "react";
 import SectionTitle from "../Common/SectionTitle";
 import AboutSectionTwo from "./AboutSectionTwo";
+import AboutSectionTwos from "./AboutSectionTwos";
+import AboutSectionTwoss from "./AboutSectionTwoss";
 import AboutSectionThree from "./AboutSectionThree";
 import AboutSectionFour from "./AboutSectionFour";
 import AboutSectionFive from "./AboutSectionFive";
@@ -23,6 +25,8 @@ const checkIcon = (
 
 const AboutSectionOne = () => {
   const [showSectionTwo, setShowSectionTwo] = useState(false);
+    const [showSectionTwos, setShowSectionTwos] = useState(false);
+     const [showSectionTwoss, setShowSectionTwoss] = useState(false);
   const [showSectionThree, setShowSectionThree] = useState(false);
   const [showSectionFour, setShowSectionFour] = useState(false);
   const [showSectionFive, setShowSectionFive] = useState(false); 
@@ -60,10 +64,29 @@ const AboutSectionOne = () => {
                     onClick={() => setShowSectionTwo(!showSectionTwo)}
                     className="rounded bg-primary px-2 py-3 text-white hover:bg-primary-dark"
                   >
-                  <h5>  1. ክርሰትና መግብያ እና
-                     የክርስትና ትርጉም
+                  <h5>  1. ክርሰትና  ከእስልምና አንጻርና የመጻፍቅዱስ የማስጠንቀቅያ መልክት
+                   
  </h5>
                   </button>
+
+
+                     <button
+                    onClick={() => setShowSectionTwoss(!showSectionTwoss)}
+                    className="rounded bg-primary px-2 py-3 text-white hover:bg-primary-dark"
+                  >
+                  <h5>  1. የክርስትና ትርጉም
+                   
+ </h5>
+                  </button>
+
+  <button
+                    onClick={() => setShowSectionTwos(!showSectionTwo)}
+                    className="rounded bg-primary px-2 py-3 text-white hover:bg-primary-dark"
+                  >
+                  <h5>  1. የሙሃመድ ፕላን 
+ </h5>
+                  </button>
+
 
 <button
                     onClick={() => setShowSectionFour(!showSectionFour)}
@@ -177,8 +200,10 @@ const AboutSectionOne = () => {
         <div className="-mx-4 flex flex-wrap items-right">
           <div className="w-full px-0">
             
-
+         
                 {showSectionTwo && <AboutSectionTwo />}
+                 {showSectionTwos && <AboutSectionTwos />}
+                {showSectionTwoss && <AboutSectionTwoss />}
                 {showSectionThree && <AboutSectionThree />}
                 {showSectionFour && <AboutSectionFour />}
                  {showSectionFive && <AboutSectionFive />}

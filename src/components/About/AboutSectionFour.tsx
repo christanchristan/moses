@@ -135,13 +135,14 @@ const AboutSectionFour = () => {
          height={300} 
        />
 
-
  <Image 
-         src="/images/about/mingoo.jpg"
-         alt="My Photo" 
-         width={500} 
-         height={300} 
-       />
+        src="/images/about/noons.JPG" 
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+
 
       
 ቃል ኪዳኑ ምን እንደሆነ ግ ን አያብራራም;  ተውታትን ማን እንደተቀበለ አይናገርም፤ ኢንጂል ተውራትን ያረጋግጣል ይላል፤ ግ ን ሲያረጋግጥ አያሳየንም፡፡

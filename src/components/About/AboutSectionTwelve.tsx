@@ -2070,6 +2070,48 @@ John 16:27ላይ ፤ በስጋ የተገለጠው አካላዊ ቃል በምድ�
 ጌታ  በአብ በወልደ በመንፈስ ቅዱስ ስም አጥምቁ፤ የሰው ልጅ በክርስትና ካልተጠመቀ፤ ገነት አይገብም፤ በፈጥሪው ስም ሊጠመቅ ይገባል፤
 ሃዋርያት ግ ን በኢየሱስ ስም አጠመቁ ለምን፤ ሚስጢረ ስላሴ ስለተረዱ፤ ሚስጢረ  ስላሴን ስለተረዱ ነው
 <br></br>
+
+የስላሴ አስተምህሮ በመጀመርያውኑ መናፍቃን ሳይኒሱ በፊት እንዳለና ከነሱ የመጣ እንደሆነ፤ ተርቱሊያን 213Ad ላይ ሆኖ ይነግረናል
+ <Image 
+        src="/images/about/bingossss.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+
+
+      
+
+
+
+
+
+ኢግኔሺየስ የቅዱስ ዮሃንስ ተማሪ ስለ ክርስቶስ አምላክነት 
+<Image 
+        src="/images/about/bilosing.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+
+<Image 
+        src="/images/about/bilo.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+
+<Image 
+        src="/images/about/vilo.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+     
+
+
+
+
 Many people claim that the doctrine of trinity was an invention of the nician council and the beshops of the early church 
  what if I told you that ; the doctrine of trinity aready existed in the church , during the time of the apostels , and the apostolich church fathers, the leaders that suxxeeded the aaposstles, 
 This was the belive held a long before,the nicine council.
