@@ -491,6 +491,25 @@ https://www.youtube.com/shorts/aUIynAdYyYU
         height={300} 
       />
 
+ <Image 
+        src="/images/about/bingosssss.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+       <Image 
+        src="/images/about/binoo.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+         <Image 
+        src="/images/about/binood.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
 
       
         <h1> </h1>
