@@ -511,6 +511,16 @@ https://www.youtube.com/shorts/aUIynAdYyYU
         height={300} 
       />
 
+
+      በካባ ያለው የቈረሾች ትልቁ ጣኦት ሁባል ነው፤ 
+         <Image 
+        src="/images/about/filosss.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      
       
         <h1> </h1>
       <Image 
