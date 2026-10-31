@@ -2208,6 +2208,32 @@ David is called "my servant David" (Ezekiel 34:23).
 
 
 
+
+ክርስትያኖች የክርስቶስ ተከታዮች እንደሆኑ ኢስላማዊ ማስረጃ 
+
+
+<Image 
+        src="/images/about/good32.JPG"
+        alt="My Photo" 
+        width={500}   
+        height={300} 
+      />
+      <Image 
+        src="/images/about/kki.jpg"
+        alt="My Photo" 
+        width={500}   
+        height={300} 
+      />
+
+ <Image 
+        src="/images/about/kkii.jpg"
+        alt="My Photo" 
+        width={500}   
+        height={300} 
+      />
+      
+
+
     </p>
 
 
