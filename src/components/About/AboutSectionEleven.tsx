@@ -194,12 +194,7 @@ John of Damascus, De Haeresibus, §100 (PG 94, col. 763)
         width={500} 
         height={300} 
       />
-        <Image 
-        src="/images/about/jif.jpg"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
+      
 
         <Image 
         src="/images/about/biloss.JPG"
@@ -230,12 +225,7 @@ John of Damascus, De Haeresibus, §100 (PG 94, col. 763)
         width={500} 
         height={300} 
       />
-      <Image 
-        src="/images/about/mum.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      />
+   
       
 
 <h1> </h1> <br></br> 
@@ -476,6 +466,33 @@ https://www.youtube.com/shorts/aUIynAdYyYU
         width={500} 
         height={300} 
       />
+
+       <h1> </h1>
+      <Image 
+        src="/images/about/bu16.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+  <h1> </h1>
+      <Image 
+        src="/images/about/ss.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      <h1> </h1>
+      <Image 
+        src="/images/about/binsss.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+
+      
         <h1> </h1>
       <Image 
         src="/images/about/u17.PNG"

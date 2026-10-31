@@ -563,6 +563,21 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
         height={300} 
       /> 
        <Image 
+        src="/images/about/writekkk.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+
+       <Image 
+        src="/images/about/bink.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+
+      
+       <Image 
         src="/images/about/writes.JPG"
         alt="My Photo" 
         width={500} 
