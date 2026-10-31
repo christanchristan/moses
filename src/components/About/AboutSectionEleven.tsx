@@ -490,7 +490,8 @@ https://www.youtube.com/shorts/aUIynAdYyYU
         width={500} 
         height={300} 
       />
-
+      <br></br>
+https://dorar.net/h/PaYQPX3A?osoul=1
  <Image 
         src="/images/about/bingosssss.JPG"
         alt="My Photo" 

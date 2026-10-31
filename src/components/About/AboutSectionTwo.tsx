@@ -228,6 +228,9 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
          width={500} 
          height={300} 
        />
+
+<br></br>
+       https://www.youtube.com/shorts/OIQ4N5Q5CDk
        <Image 
          src="/images/about/bbn.JPG"
          alt="My Photo" 
