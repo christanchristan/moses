@@ -243,7 +243,12 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
                         width={500} 
                         height={300} 
                       />
-                       
+                        <Image 
+             src="/images/about/filos.JPG"
+             alt="My Photo" 
+             width={500} 
+             height={300} 
+           />
                 
                መተዳደርያየ በሰይፍ ነው ብሎ ቆርጦ የተነሳ ይህ ግለሰብ፤   ፤ሰዎችን እያገተ እስከ 4000 ዲናር ይቀበል ነበረ፡፡
                 
