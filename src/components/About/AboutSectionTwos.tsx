@@ -2944,6 +2944,33 @@ https://sunnah.com/bukhari:3617
   ክርስትያን ተባሉ ነዉ የሚለዉ እንጂ ሆኑ አይለንም፡፡ 
    
 
+
+
+<Image 
+        src="/images/about/mifiloss.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      
+<Image 
+        src="/images/about/mifiloss.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      
+<Image 
+        src="/images/about/nigoss.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+
+
    <br></br><br></br>
    
    
