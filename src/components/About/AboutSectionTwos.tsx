@@ -3003,7 +3003,16 @@ https://sunnah.com/bukhari:3617
              height={300} 
            />
    
+
+   <Image 
+             src="/images/about/filos.JPG"
+             alt="My Photo" 
+             width={500} 
+             height={300} 
+           />
+   
            
+          
            
       
         
