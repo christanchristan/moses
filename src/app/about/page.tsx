@@ -5,6 +5,8 @@ import AboutSectionSix from "@/components/About/AboutSectionSix";
 import AboutSectionSeven from "@/components/About/AboutSectionSeven";
 import AboutSectionThree from "@/components/About/AboutSectionThree";
 import AboutSectionTwo from "@/components/About/AboutSectionTwo";
+import AboutSectionTwoss from "@/components/About/AboutSectionTwoss";
+import AboutSectionTwos from "@/components/About/AboutSectionTwos";
 import Breadcrumb from "@/components/Common/Breadcrumb";
 import  useRef from "next";
 import { Metadata } from "next";
@@ -42,7 +44,10 @@ const AboutPage = () => {
 
     
       <AboutSectionOne />
+
       <AboutSectionTwo  />
+             <AboutSectionTwoss  />
+       <AboutSectionTwos  />
       <AboutSectionThree    />
       <AboutSectionFour />
       <AboutSectionFive />

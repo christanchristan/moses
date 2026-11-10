@@ -372,7 +372,7 @@ To paradise and I do not care ad he said to the party in his left shoulder, to h
 ስድብ;  ወንድሙን ዶንቆሮ ያለው ሲኦል ይገባዋል፤ የሰረቀን ሌባ ብትለው ሌባ ነው
 
 አላህ ሱራ ምእራፍ ሁለት ላይ  ዶንቆሮዎች እያለ በስድብ ነው የሚጀምረው ፡፡ ሲቀጥል፤
-ሙሃመድ እራሳቸው ፤ የአባቱን ብልት ይንከስ እያሉ ይሳደቡ እንደነበረ ማስረጆች ያሳያልሉ
+ሙሃመድ እራሳቸው ፤ የአባቱን ብልት ይንከስ እያሉ ይሳደቡ ፤ አቡ በከርም የአላትን 4 ንከስ ብሎ ይሳደባል፤ እንደነበረ ማስረጆች ያሳያልሉ
 ስድብ  sunnan al adbab al mufrad 963” whom ever attributes  himself with an attribution of jahliyyah ,
  then tell me to bite his father’s male organ and do not speak figuratively.
 
