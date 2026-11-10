@@ -398,8 +398,10 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
   ሰይፍ ነው(በሃብትና በጂሃድ ነው)፡፡የሙሃመድ ምናባባዊው አምላክ ፤ 
   እምነቱን ያቁዋቁዋመው  ተውሂድን ያቁዋቁዋመው በሃብትና በገንዘብ ነው፡፡ አሸጀራት አቱባ በተባለ መጽሃፍ ላይ ይገኛል፡፡
   
- <h1></h1> <Image src="/images/about/ki1.jpg" alt="My Photo" width={500} height={300} />  
+
   
+ <h1></h1> <Image src="/images/about/ki1.jpg" alt="My Photo" width={500} height={300} />  
+  <Image src="/images/about/mifiloss.JPG" alt="My Photo" width={500} height={300} /> https://ablibrary.net/book_content/b/2110/3 <Image src="/images/about/nigoss.JPG" alt="My Photo" width={500} height={300} />
   
   ለዚህ ነው መለኮታዊ የሸርያ ህኝ ማቁዋቁዋም 
   ሰው ሰራሽ ህጎችን ማጥፋት በሰበካ ብቻ ውጤታማ ሊሆን አይችልም የሚለን፡፡
