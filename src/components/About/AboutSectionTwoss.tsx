@@ -359,6 +359,74 @@ const AboutSectionTwos = () => {
      
      
      <br></br>
+               <Image 
+                  src="/images/about/bingok.JPG"
+                  alt="My Photo" 
+                  width={500} 
+                  height={300} 
+                />
+     
+                  <Image 
+                  src="/images/about/dingo.JPG"
+                  alt="My Photo" 
+                  width={500} 
+                  height={300} 
+                />
+            <Image 
+                  src="/images/about/binssss.JPG"
+                  alt="My Photo" 
+                  width={500} 
+                  height={300} 
+                />
+        
+          
+          
+           <Image 
+                  src="/images/about/ssiso.JPG"
+                  alt="My Photo" 
+                  width={500} 
+                  height={300} 
+                />
+           
+           ታሪካዊ ማስረጃ  :- 1 tacites (Tacitus (c. AD 56 – c. 120) was a Roman senator and is widely considered one of the greatest historians of ancient Rome. )
+        He wrote foundational texts on the early Roman Empire, including the Annals and the Histories
+            <Image 
+                  src="/images/about/sinos.JPG"
+                  alt="My Photo" 
+                  width={500} 
+                  height={300} 
+                />
+            <Image 
+                  src="/images/about/bilosssing.JPG"
+                  alt="My Photo" 
+                  width={500} 
+                  height={300} 
+                />
+        
+                 <Image 
+                  src="/images/about/ningo.JPG"
+                  alt="My Photo" 
+                  width={500} 
+                  height={300} 
+                />
+        
+          <Image 
+                  src="/images/about/ningo.JPG"
+                  alt="My Photo" 
+                  width={500} 
+                  height={300} 
+                />
+                <Image 
+                  src="/images/about/miloss.JPG"
+                  alt="My Photo" 
+                  width={500} 
+                  height={300} 
+                />
+        
+     
+       
+        
+                
     
   
   ሰዉ ክርስትያን  የክርስቶስ ተከታይ  የሚሆነዉ ክርሰቶስን በተከተለ ጊዜ ነዉ ፡፡

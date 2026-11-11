@@ -856,6 +856,16 @@ https://sunnah.com/urn/7494345
 
 በተጨማሪም የወጣቱን ስሜት  ለመቀስቀስ ፤ ኢብኑ ከሲር እንዳለን በገነት ያሉት ሴቶች፤ ግመል ሴሜቱዋ ሲመጣ እንደምቶን ነው
 የምቶነው፤ወንዶቹ ደግሞ ብልታቸው ፈጽሞ አይደክምም ይላል፤.እንዲሁም ሸርሙጦች አሉ እያለ ይናገራል፡፡
+
+   <Image 
+        src="/images/about/bfsi.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+
+
+
 የሙሃመድ አላማ ስሜትን ለመቀስቀስና ወጣቱ  ገነትን ናፍቆ ወደ  እሳት ለማስገባት እንደሆነ ማንም ሰው ይረዳል
 
        ይሄ የሙሃመድ ነገር እውነት መስሎት ኡመር ኑ አላህ ይደሰት ዘንድ ቤተሰቦቻችንን ሳይቀር እንግደል አለ፤
@@ -1773,6 +1783,10 @@ https://sunnah.com/urn/7494345
 
      
       ሲቀጥል ሙሃመድ አደረኩ የሚለው ጨረቃን የመግመስ ታምር፤አይደለም፡፡ ቁረሾች በራቸውን ከዘጉ ቡሃላ የተደረገ ታምር ነው፡፤
+የዮሐንስ ወንጌል ምዕራፍ 3 ቁጥር 19 እስከ 22 በአማርኛ:
+• 19 ብርሃንም ወደ ዓለም ስለ መጣ ሰዎችም ሥራቸው ክፉ ነበርና ከብርሃን ይልቅ ጨለማን ስለ ወደዱ ፍርዱ ይህ ነው።
+ 20 ክፉ የሚያደርግ ሁሉ ብርሃንን ይጠላልና፥ ሥራውም እንዳይገለጥ ወደ ብርሃን አይመጣም፤
+ 21 እውነትን የሚያደርግ ግን ሥራው በእግዚአብሔር ተደርጎ እንደ ሆነ ይገለጥ ዘንድ ወደ ብርሃን ይመጣል።
 
 
  <Image 
@@ -2978,7 +2992,21 @@ https://sunnah.com/bukhari:3617
         
         ብዙ ሙስሊም ወገኖቻችን ፤ ክርስቶስን መከተል ክርስትና ከክርስቶስ ጋር ግኑኝነት
          የለሁም የሚል ደካማ ሙግት ያቀርባሉ ፤ ነገር ግን ለዚ ኢስላማዊ ታሪካዊና ክርስትያናዊ ማስረጃ አሉን፤
-      
+     
+
+          <Image 
+             src="/images/about/bingok.JPG"
+             alt="My Photo" 
+             width={500} 
+             height={300} 
+           />
+
+             <Image 
+             src="/images/about/dingo.JPG"
+             alt="My Photo" 
+             width={500} 
+             height={300} 
+           />
        <Image 
              src="/images/about/binssss.JPG"
              alt="My Photo" 
@@ -2995,8 +3023,8 @@ https://sunnah.com/bukhari:3617
              height={300} 
            />
       
-      ታሪካዊ ማስረጃ
-   
+      ታሪካዊ ማስረጃ  :- 1 tacites (Tacitus (c. AD 56 – c. 120) was a Roman senator and is widely considered one of the greatest historians of ancient Rome. )
+   He wrote foundational texts on the early Roman Empire, including the Annals and the Histories
        <Image 
              src="/images/about/sinos.JPG"
              alt="My Photo" 
@@ -3180,7 +3208,16 @@ Who is the messenger will come preparing the way of the lord And the lord will v
 .yahawe <br></br>According to the bible who carries the title I am; Yahawey exedos 3 According to the new testament; who carrey In the old testament who call him self the bigning and the end yahawe; And in the new testament jesus calls him self ; the bigning and the end;;;;
 ow does hashim believe that you should ouner; god? Hashim believes that the way yiou should houner; god is you should bow down and worship him; ; according to the bible; We houner god the father; we should bow down and worship correct But jesus said houner the son even as you hounour the father; so If we bow down and worship the father; what should we do to the son ;bow down and worship; so Jesus litrilly says; ;I am god bow down and worship me;
 <br></br>
+የጌታ ሃዋርያት ይህ የክርስቶስ አምላክነት ስለገባቸው፤ እራሳቸውን የክርስቶስ ባርያ ይሉ ነበረ፤
 
+ <Image 
+        src="/images/about/bigo.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+<br></br>
 እስራኤላዉያን(የእግዚአብሄር ህዝቦች) ማህበር ካሃል/ ቤተክርስትያን ይባላል፡፡የሃዋ 7፡26 በማህበር መካከል የሚለው ግሪኩ ቤተክርስትያ ነው የሚለው፡፡
 ፡የሃዋ 7፡26 ይህ ሰው በሲና ተራራ ከተናገረው መላክና ከአባቶቻችን  ጋር በምድረ በዳ በማህበር ዉስጥ የነበረው ነው፡፡ይላል
 ሄዳቹ ይህን ማህበር የሚለውን ስም በግሪክ ስታዩት ቀጥያ ጌታችን  እመሰርታለው ያለውን አቅሌስያ ወይም  ቤተክርስትያኔን የሚለውን ቃል ነው የምታገኙት፡፡
