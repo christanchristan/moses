@@ -225,6 +225,14 @@ const AboutSectionTwelve = () => {
         width={500} 
         height={300} 
       />
+      
+
+         <Image 
+        src="/images/about/bir.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
     </div>
 
 በብሉይ ኪዳን ለአይሁዶች እግዚአብሄር በከፊል መገለጥ (partial revilation) ተገልጦላቸዋል፤ ለምሳሌ 

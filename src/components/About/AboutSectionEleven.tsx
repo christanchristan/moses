@@ -268,6 +268,23 @@ John of Damascus, De Haeresibus, §100 (PG 94, col. 763)
       />
        <br></br> 
 
+        ሙሃመድ ተገለጠልኝ ካለ ሙሃላ፤የጣኦትን ስም መጥራት ይመኙ ነበረ፡፡ ለምን ? ምክንያቱም ተከታዮች ለማግኘት ነው
+        <Image 
+        src="/images/about/ccccccc.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+       <br></br> 
+           <Image 
+        src="/images/binsso.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+       
+
        ሙሃመድ ተከታይ ይጨምርለት ዘንድ ለጣኦት እንደሰገደለት ነዉ፡፡
        https://quran-tafsir.net/seoty/sura22-aya52.html
       <Image 
@@ -276,6 +293,9 @@ John of Damascus, De Haeresibus, §100 (PG 94, col. 763)
         width={500} 
         height={300} 
       />
+
+    
+
 
 ሙሃመድ  ደቀ መዛሙርቴ እስኪበዙ ድረስ ፤ ተከታዮችን ጣኦት ማምለክ ትችላላቹ ያለ ግለሰብ ነው 
  <Image 

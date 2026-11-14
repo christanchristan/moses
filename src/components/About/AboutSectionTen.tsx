@@ -986,7 +986,14 @@ const AboutSectionTen = () => {
   in a state of non-existence until Allah gave it life.
 
 
-  <Image src="/images/about/bbbk.jpg" alt="ምስል" fill className="object-cover object-center" />
+
+     <Image 
+        src="/images/about/bbbk.jpg"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
 
 Ibn Kathir also says: death is the state of ‘adam (non-existence),
  and Allah created both death and life as part of His decree for creation.
@@ -997,7 +1004,6 @@ Ibn Kathir also says: death is the state of ‘adam (non-existence),
 
   ኢቭን ይሄ መበደል ወደ ሲኦል እንደሚወስድ የሚያሳዩ የቁራን ክፍሎች አሉ
 
-  <Image src="/images/about/bbbk.jpg" alt="ምስል" fill className="object-cover object-center" />
 
 <br></br> <br></br>
 
