@@ -38,6 +38,7 @@ const AboutSectionTwo = () => {
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                   Dont forget this Apologetics means defending the faith that christ defend ፣ እስልምናን ተምረክና አውቀክ ፤
                   መጨረሻ ላይ የምትደርሰው ድምዳሜ እስልምና ማለት ሙሃመድ ሃብትን ገንዘብንና ፤ ስልጣንን ለማግኘት ሲል፤ በምናቡ የፈጠረው ገነት ውስጥ ፤ ለመግባት ፤ ሙስሊሞች የሚያደርጉት እንቅስቃሴ ነው፡፡
+                  <br></br>አስተምህሮውን ኬት አመጣ ብትለኝ  <br></br>
                   <br></br>th Zwemer's conclusion that Islam "is not an invention, but a concoction; there is nothing novel about it except the genius of Mohammad in mixing old
                    ingredients into a new panacea for human ills and forcing it down by means of the sword."
                   
