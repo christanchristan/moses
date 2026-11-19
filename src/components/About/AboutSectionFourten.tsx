@@ -400,6 +400,9 @@ To paradise and I do not care ad he said to the party in his left shoulder, to h
         width={500} 
         height={300} 
       />
+
+
+
 <br></br>-   ሙሃመድ ይሄ አልበቃም ብሎት ሴቶችን አብዛኞቹ ሴቶች በሲኦል ናቸዉ እያለ ያስጠነቅቃችወ ነብር፤ ይህን ሲል ምን  እያለ ነዉ፤ብዙ ሚስትና ባረያ እንዲይዝ የተፈቀደለት ፤ ይደበድባችወ ዘንድ የተፈቀደልተ ነው እንደ የእስልምናን  ገነት የሞላው፡፡ለዚህ ነው የእስልምና ጀነት የወንዶች ጀነት ነው የምንለው፡፡
 170 ሃገራት ባደረገዉ በሴቶች ላይ የሚደርሱ ወንጀሎች  ዉስጥ 18ትን ሃገራት ለይቶ ነበረ፤  OECD  ባወጣዉ ዘገባ ፤ ከ 18  ሃገራት ዉሰጥ 16ቱ የእስልምና ሀገራት ናቸዉ፡፡
  <br></br>
@@ -438,7 +441,8 @@ To paradise and I do not care ad he said to the party in his left shoulder, to h
               </div>
              
 
-
+ስለ ስእለት ገቢ ዋጋ  የሚያወራውን ስለሴቶች የክብር 
+ ዋጋ አድርጋ ለቀጠፈችው ወገናችን መልስ
 
              <div className="mb-1">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
