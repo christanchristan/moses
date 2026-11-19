@@ -345,6 +345,61 @@ To paradise and I do not care ad he said to the party in his left shoulder, to h
 -  የአይምሮ እጥረት ስላለባችዉ፤ ምስክርነታችዉ ከወንዶች ግማሽ ነዉ፡፡
 -  ሴቶችን መሪ የሚያደርግ ህዝብ መቼም አየሸንፍም፡፡ ለዚህም ነው በሸርያ ህግ በምትመራው  በአፍጋኒስታን የሴቶች ትምህርትን ለማስቆም የወሰኑት 
 
+
+
+
+ <Image 
+        src="/images/about/ningosk1.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      
+ <Image 
+        src="/images/about/ningosk2.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      
+ <Image 
+        src="/images/about/ningosk3.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      
+ <Image 
+        src="/images/about/ningosk4.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      
+ <Image 
+        src="/images/about/ningosk5.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+      
+ <Image 
+        src="/images/about/ningosk6.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      
+ <Image 
+        src="/images/about/ningosk7.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
 <br></br>-   ሙሃመድ ይሄ አልበቃም ብሎት ሴቶችን አብዛኞቹ ሴቶች በሲኦል ናቸዉ እያለ ያስጠነቅቃችወ ነብር፤ ይህን ሲል ምን  እያለ ነዉ፤ብዙ ሚስትና ባረያ እንዲይዝ የተፈቀደለት ፤ ይደበድባችወ ዘንድ የተፈቀደልተ ነው እንደ የእስልምናን  ገነት የሞላው፡፡ለዚህ ነው የእስልምና ጀነት የወንዶች ጀነት ነው የምንለው፡፡
 170 ሃገራት ባደረገዉ በሴቶች ላይ የሚደርሱ ወንጀሎች  ዉስጥ 18ትን ሃገራት ለይቶ ነበረ፤  OECD  ባወጣዉ ዘገባ ፤ ከ 18  ሃገራት ዉሰጥ 16ቱ የእስልምና ሀገራት ናቸዉ፡፡
  <br></br>
@@ -481,6 +536,8 @@ To paradise and I do not care ad he said to the party in his left shoulder, to h
 
 መጠጥ በእስልምና  በገነት የሚጠጣዉ ጠጅ
  በምን እንደሚለይ ሲናገር ሱራ 83፤  25 ላይ ተጣርቶ ከታተመ ጠጅ ይጠጣሉ፡፡ ይለናል፡፡
+ አንድን ጠጅ ጠጅ የሚያደርገው ጠአሙ ነው፤ ዉሃንም ዉሃን የሚያደርገው ዉሃ መሆኑ ነው፤ ዉሃነቱን ከቀየረ ዉሃ አይባልም፤ ጠጅም ጠጅነቱን 
+ ከቀየረ ጠጅ አይባልም፤ ሶ በሰማይ የሚገኘውን ጠጅ ፤ ለማወቅ ይህን ቼክ አድርገው፤ 
 
    <Image 
           src="/images/about/mk.JPG"
