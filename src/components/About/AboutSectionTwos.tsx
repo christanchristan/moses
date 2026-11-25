@@ -123,6 +123,35 @@ https://quran-tafsir.net/seoty/sura22-aya52.html
         width={500} 
         height={300} 
       />
+ ሲቀጥል ሙሃመድ የሚፈልገውን የሃብት ጥቅም 
+ እንዳስጠበቀ፤ከዘረፋ 1 አምስተኛው የኔ ነው በማለት፤ እንዲሁም፤ የሚፈልገውን ሴት ማስጠበቅ እንደቻለ፤ የሚፈልጋትን ሴት ማግባት እንደተፈቀደለት፤አልሲዩቲ ይነግረናል፡፡
+
+
+<Image 
+        src="/images/about/bbkkkkk.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+       <Image 
+        src="/images/about/bilosskkking.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+      https://quran-tafsir.net/qortoby/sura33-aya50.html
+
+ <Image 
+        src="/images/about/bilosskkinf.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+
+      
+
+
+
 እስኪ ሙስሊሞች ታሪካቸው ቀድሞ  ከሚታወቀው ከመጽሐፍ ቅዱስ እና ከአህሉል ኪታብ (የአይሁድና የክርስቲያን) ታሪኮች—እንደ አብርሃም፣ ይስሐቅ፣ ያዕቆብ፣ ዮሴፍ፣ ማርያም እና ኢየሱስ ያሉትን—ለጊዜው አግልለን
 የሙሐመድን ታሪ ብቻውን እንመርምር፦
 
@@ -212,6 +241,22 @@ https://quran-tafsir.net/seoty/sura22-aya52.html
         width={500} 
         height={300} 
       /> 
+       <Image 
+        src="/images/about/bilosskkking.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+      https://quran-tafsir.net/qortoby/sura33-aya50.html
+
+ <Image 
+        src="/images/about/bilosskkinf.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+
+      
         <Image 
         src="/images/about/nb.JPG"
         alt="My Photo" 
@@ -1337,6 +1382,33 @@ https://sunnah.com/urn/7494345
  2 ፣በዚህ አላህ ያመሰኛቹዋል 3 ፤ይህ በአይሁዶችና በክርስትያኖች መጽሃፍ ላይም ያለ ነው 4፤ ብትሞቱም አላህ ነብሳቹን ስለሸጣቹ ገነት ገቢ ናቹ፤ 5
  እንዴት ከፈጣሪ ይልቅ ሰውን ትፈራላቹ፤6 በገነት የሚበላ የሚጠጣ፤ የማይተኛ ብልትና ሸርሙጦች፤ 72 ሚስቶች  አሉ፤ ይላል፡፡
 
+   <Image 
+        src="/images/about/binko.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+      https://archive.org/details/20200910_20200910_1320/page/n67/mode/2up
+       <Image 
+        src="/images/about/binkoo.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+
+       <Image 
+        src="/images/about/singooooo.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+
+
+
+     
+      
+ 
+
        <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                             
                   🔹2 ለሰብ በግልጽ ይህን ሲያደርግ ሽብር ይፈጽማል
@@ -2073,6 +2145,11 @@ https://sunnah.com/urn/7494345
 
 ሶ አንድ ሰው መተዳድደርያው በጦር ጥላ ስር ከሆነ ብዙ ጊዜ እንደዚህ የሚያደርጉ ሰዎች ገንዘብ የሚሰሩት ከአከባቢያቸው ሳይሆን ፤ ከአከባቢያቸው ወጣ ብለው ነው፡፡ከመካና ከመዲና ለወረራ ያስወጣው ገንዘብ ፤ሃብትና ስልጣን  መሆኑ ግልጽ ነው፡፡
 ለዚህ ነበረ  ይህ ግለሰብ በመካ ዳዋዉ ፌይል ባደረገ ጊዜ ቁረሾችን እኔ ባልኩት ከተስማማቹ ፤ አረብ ያልሆኑት ለናንት ግብር ይከፍላሉ ስለዚህ ተስማሙ እያለ ይደራደር የነበረው፡፡እንደዚሁም 
+
+
+<br></br>
+
+bingooking
 
 የሮሙ ገዚ  ካሊድን ብር ቸግሮዋቹ ከበረሃ  እንደመጣቹ እናውቃለን ፤  ከተመለሳቹ የምንፈልገውን
 እንሰጣቹዋለን ማለቱ ይህን እውነታ ያረጋግጥልናል፤ እንዲሁም ለገንዘብ ብቻ ሳይሆን ለግድያና ለም መሬትን ለመቆጣጠር እንደሆነ

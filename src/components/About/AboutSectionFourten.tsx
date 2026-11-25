@@ -386,6 +386,16 @@ To paradise and I do not care ad he said to the party in his left shoulder, to h
         height={300} 
       />
 
+
+ <Image 
+        src="/images/about/mmmin.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+
+
       
  <Image 
         src="/images/about/ningosk6.JPG"

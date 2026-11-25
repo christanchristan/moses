@@ -431,6 +431,21 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
   ሰው ሰራሽ ህጎችን ማጥፋት በሰበካ ብቻ ውጤታማ ሊሆን አይችልም የሚለን፡፡
 
 
+ <Image 
+        src="/images/about/fikringo.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+      <Image 
+        src="/images/about/bingosssskkkkk.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      />
+
+
+
 
 <br></br>
               
