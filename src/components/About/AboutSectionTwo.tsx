@@ -307,6 +307,29 @@ Amharic(i) 17 ነገር ግን፥ ወንድሞች ሆይ፥ እናንተ የ�
 
 
 
+<Image 
+        src="/images/about/bbkkkkk.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+       <Image 
+        src="/images/about/bilosskkking.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+      https://quran-tafsir.net/qortoby/sura33-aya50.html
+
+ <Image 
+        src="/images/about/bilosskkinf.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+
+      
+
 
 
 
