@@ -1834,13 +1834,7 @@ https://sunnah.com/urn/7494345
  
 
 
-
-<Image 
-        src="/images/about/bbkkkkk.JPG"
-        alt="My Photo" 
-        width={500} 
-        height={300} 
-      /> 
+ሙሃመድ ለግሉ  ከተሰጠው 16  መብቶች ውስጥ ፤ (የገንዘብን እና የሴቶችን ጥቅሙን አስጠብቁዋል፤ he is very Business man)
        <Image 
         src="/images/about/bilosskkking.JPG"
         alt="My Photo" 
@@ -1857,6 +1851,18 @@ https://sunnah.com/urn/7494345
       /> 
 
       
+ቢዝነስ ማን መሆኑን የምናውቀው አንድ ሃገርን ከወረረ ቡሃላ ገንዘቡ  የት አለ የሚል ላይ ነው የሚጨነቀው?የአልነዲር ጎሳን ሃብት ያዚውን የጎሳውን ገንዘብ ካላመጣክ ብሎት ገደለው፡፡
+<br></br>
+https://www.islamweb.net/ar/library/content/58/1313/%D8%A8%D9%82%D9%8A%D8%A9-%D8%A3%D9%85%D8%B1-%D8%AE%D9%8A%D8%A8%D8%B1
+<Image 
+        src="/images/about/bilosins.JPG"
+        alt="My Photo" 
+        width={500} 
+        height={300} 
+      /> 
+
+
+
 
 
 
